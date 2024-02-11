@@ -1,0 +1,26 @@
+[
+    {           
+        "IconId": "x",
+        "Description": "Available",
+        "GitIcon" : ":white_check_mark:",
+        "RawIcon" : "✅"
+    },
+    {           
+        "IconId": "-",
+        "Description": "Not available",
+        "GitIcon" : ":x:",
+        "RawIcon": "❌"
+    },
+    {           
+        "IconId": "o",
+        "Description": "Deprecated",
+        "GitIcon" : ":o:",
+        "RawIcon": "⭕"
+    },
+    {           
+        "IconId": "",
+        "Description": "Needs review",
+        "GitIcon" : ":grey_question:",
+        "RawIcon": "❔"
+    } 
+]

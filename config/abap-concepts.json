@@ -1,0 +1,14 @@
+{
+    "Name": "ABAP SQL",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "INLINE Declaration",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        }
+    ]
+}

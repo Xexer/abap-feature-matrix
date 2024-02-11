@@ -1,0 +1,86 @@
+{
+    "Name": "ABAP Statements",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "XSDBOOL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "FILTER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "FOR GROUPS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "IS INSTANCE OF",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "CASE TYPE OF",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "ENUM",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "FINAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "ELSE UNASSIGN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "STEP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "RETURN value",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        }
+    ]
+}

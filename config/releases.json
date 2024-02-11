@@ -1,0 +1,67 @@
+[
+    {
+        "ReleaseId": "7402",
+        "Description": "7.40 (SP02)",
+        "Order": 10
+    },
+    {
+        "ReleaseId": "7405",
+        "Description": "7.40 (SP05)",
+        "Order": 20
+    },
+    {
+        "ReleaseId": "7408",
+        "Description": "7.40 (SP08)",
+        "Order": 30
+    },
+    {
+        "ReleaseId": "7410",
+        "Description": "7.40 (SP10)",
+        "Order": 40
+    },
+    {
+        "ReleaseId": "1511",
+        "Description": "1511 (7.50)",
+        "Order": 50
+    },
+    {
+        "ReleaseId": "1610",
+        "Description": "1610 (7.51)",
+        "Order": 60
+    },
+    {
+        "ReleaseId": "1709",
+        "Description": "1709 (7.52)",
+        "Order": 70
+    },
+    {
+        "ReleaseId": "1809",
+        "Description": "1809 (7.53)",
+        "Order": 80
+    },
+    {
+        "ReleaseId": "1909",
+        "Description": "1909 (7.54)",
+        "Order": 90
+    },
+    {
+        "ReleaseId": "2020",
+        "Description": "2020 (7.55)",
+        "Order": 100
+    },
+    {
+        "ReleaseId": "2021",
+        "Description": "2021 (7.56)",
+        "Order": 110
+    },
+    {
+        "ReleaseId": "2022",
+        "Description": "2022 (7.57)",
+        "Order": 120
+    },
+    {
+        "ReleaseId": "2023",
+        "Description": "2023 (7.58)",
+        "Order": 130
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-statements.json",
+        "Order": 1
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-sql.json",
+        "Order": 2
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-unit.json",
+        "Order": 3
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-concepts.json",
+        "Order": 4
+    }    
+]
