@@ -1,0 +1,54 @@
+{
+    "Name": "CDS Operations",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "JOIN (Inner, Left, Right)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "WHERE, GROUP BY, HAVING",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "UNION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Cross Join",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "EXCEPT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "INTERSECT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        }
+    ]
+}

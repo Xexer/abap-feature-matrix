@@ -1,13 +1,29 @@
 {
-    "Name": "ABAP SQL",
+    "Name": "ABAP Concepts",
     "Description" : "",
     "Content": [
         {
-            "Text": "INLINE Declaration",
+            "Text": "ABAP Daemons",
             "GitLink": "",
             "Help": "",
             "Release": {
-                "7408": "x"
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "ABAP for Cloud Development",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Component Selector; cref->(attr_name)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
             }
         }
     ]

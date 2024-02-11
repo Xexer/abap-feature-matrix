@@ -22,5 +22,11 @@
         "Description": "Needs review",
         "GitIcon" : ":grey_question:",
         "RawIcon": "❔"
-    } 
+    },
+    {           
+        "IconId": "d",
+        "Description": "Downport",
+        "GitIcon" : ":arrow_down_small:",
+        "RawIcon": "🔽"
+    }  
 ]

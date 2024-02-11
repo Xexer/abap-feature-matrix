@@ -14,5 +14,33 @@
     {
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-concepts.json",
         "Order": 4
-    }    
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/core-data-services.json",
+        "Order": 5
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/cds-functions.json",
+        "Order": 6
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/cds-operations.json",
+        "Order": 7
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/dictionary.json",
+        "Order": 8
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/rap.json",
+        "Order": 9
+    },
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-classes.json",
+        "Order": 10
+    } ,
+    {
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-interfaces.json",
+        "Order": 11
+    }                
 ]

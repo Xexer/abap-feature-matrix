@@ -1,0 +1,39 @@
+{
+    "Name": "Objects - Class",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "CL_ABAP_PARALLEL (*)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/woki/objects.md#cl_abap_parallel",
+            "Help": "",
+            "Release": {
+                "1511": "d",
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_BEHV_AUX",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_BIGINT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_RATIONAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        }
+    ]
+}

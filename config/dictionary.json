@@ -1,0 +1,47 @@
+{
+    "Name": "Dictionary",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "Pooled, Cluster Tables",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "1809": "o"
+            }
+        },
+        {
+            "Text": "INT8 (Built-In)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "DECFLOAT16/34",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "UTCLONG",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "INDICATOR Structures",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        }
+    ]
+}

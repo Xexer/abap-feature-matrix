@@ -1,0 +1,14 @@
+{
+    "Name": "CDS Functions",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "config/core-data-services.json",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        }
+    ]
+}

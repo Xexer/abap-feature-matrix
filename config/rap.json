@@ -1,0 +1,78 @@
+{
+    "Name": "ABAP RESTful Programming Model",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "Unmanaged Scenario",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "Managed Scenario",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Validation",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Determination",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Augmentation",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Events",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Late Numbering",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Side Effects",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Locale Events",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "Name": "Objects - Interfaces",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "IF_T100_DYN_MSG",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        }
+    ]
+}

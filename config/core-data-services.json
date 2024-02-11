@@ -1,0 +1,103 @@
+{
+    "Name": "Core Data Services",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "Define View",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x",
+                "2020": "o"
+            }
+        },
+        {
+            "Text": "Define View Entity",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Association",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Table Function",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Session Variable",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Hierarchy",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Abstract Entiy",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Hierarchy (Temporal)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "Typed Literal",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Simple Type",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Enumeration",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Scalar Functions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        }
+    ]
+}
