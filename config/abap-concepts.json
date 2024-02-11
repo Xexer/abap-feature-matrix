@@ -25,6 +25,22 @@
             "Release": {
                 "2021": "x"
             }
+        },
+        {
+            "Text": "ABAP Cloud - Software Components",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "ABAP Cloud - T1 Fiori Deployment",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }
