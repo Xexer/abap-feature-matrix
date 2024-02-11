@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "CL_ABAP_PARALLEL (*)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/woki/objects.md#cl_abap_parallel",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects.md#cl_abap_parallel",
             "Help": "",
             "Release": {
                 "1511": "d",
