@@ -3,6 +3,14 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "Inline Declaration",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#inline-declaration",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
             "Text": "ABAP Daemons",
             "GitLink": "",
             "Help": "",

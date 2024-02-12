@@ -3,6 +3,70 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "NEW",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#new",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "VALUE",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#value",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "REF",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#ref",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "EXACT",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#exact",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "CONV",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#conv",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "CAST",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cast",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "COND",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cond",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "SWITCH",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#switch",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
             "Text": "XSDBOOL",
             "GitLink": "",
             "Help": "",
