@@ -1,0 +1,30 @@
+{
+    "Name": "ABAP Managed Database Procedures",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "IF_AMDP_MARKER_HDB",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "BY DATABASE PROCEDURE FOR HDB LANGUAGE SQLSCRIPT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "AMDP BAdIs",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        }
+    ]
+}

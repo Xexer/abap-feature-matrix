@@ -3,7 +3,48 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "Space-Separated Lists",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "7405": "o"
+            }
+        },
+        {
+            "Text": "Comma-Separated Lists",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Host Variables (@)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
             "Text": "INLINE Declaration",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "CASE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "Read CDS with parameters",
             "GitLink": "",
             "Help": "",
             "Release": {

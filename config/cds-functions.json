@@ -3,6 +3,118 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "Annotations with @<",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "EXTEND VIEW",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "CONCAT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "REPLACE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "ABS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "DIV",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "DIVISION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "FLOOR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "MOD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "ROUND",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "COALESCE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "UNIT_CONVERSION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "CURRENCY_CONVERSION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "DECIMAL_SHIFT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
             "Text": "IS INITIAL",
             "GitLink": "",
             "Help": "",

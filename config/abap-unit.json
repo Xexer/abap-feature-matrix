@@ -3,6 +3,14 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "PARTIALLY IMPLEMENTED",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
             "Text": "Class Double (Interface)",
             "GitLink": "",
             "Help": "",

@@ -20,38 +20,43 @@
         "Order": 4
     },
     {
+        "Title": "AMDP",
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/amdp.json",
+        "Order": 5
+    },
+    {
         "Title": "Core Data Services",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/core-data-services.json",
-        "Order": 5
+        "Order": 6
     },
     {
         "Title": "CDS Functions",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/cds-functions.json",
-        "Order": 6
+        "Order": 7
     },
     {
         "Title": "CDS Operations",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/cds-operations.json",
-        "Order": 7
+        "Order": 8
     },
     {
         "Title": "Dictionary",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/dictionary.json",
-        "Order": 8
+        "Order": 9
     },
     {
         "Title": "ABAP RESTful Programming Model",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/rap.json",
-        "Order": 9
+        "Order": 10
     },
     {
         "Title": "Objects - Classes",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-classes.json",
-        "Order": 10
+        "Order": 11
     } ,
     {
         "Title": "Objects - Interfaces",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-interfaces.json",
-        "Order": 11
+        "Order": 12
     }                
 ]

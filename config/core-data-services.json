@@ -28,6 +28,22 @@
             }
         },
         {
+            "Text": "Parameters in view",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "CDS Access Control",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7410": "x"
+            }
+        },
+        {
             "Text": "Table Function",
             "GitLink": "",
             "Help": "",

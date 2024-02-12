@@ -67,6 +67,62 @@
             }
         },
         {
+            "Text": "itab[ ... ]",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "LINE_INDEX",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "LINE_EXISTS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "WAIT FOR MESSAGING CHANNELS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "LET",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "CORRESPONDING",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "WAIT FOR PUSH CHANNELS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
             "Text": "XSDBOOL",
             "GitLink": "",
             "Help": "",
@@ -84,6 +140,22 @@
         },
         {
             "Text": "FOR GROUPS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "DEFAULT (method definitions)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "VALUE #( ... DEFAULT/OPTIONAL)",
             "GitLink": "",
             "Help": "",
             "Release": {

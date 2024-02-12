@@ -11,6 +11,46 @@
             }
         },
         {
+            "Text": "ABAP Messaging Channels",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "ABAP Docs",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Meshes (Types & Processing)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "ABAP Push Channels",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Predicative Method Calls",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
             "Text": "ABAP Daemons",
             "GitLink": "",
             "Help": "",
