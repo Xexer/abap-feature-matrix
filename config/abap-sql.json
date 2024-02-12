@@ -50,6 +50,30 @@
             "Release": {
                 "7408": "x"
             }
+        },
+        {
+            "Text": "UNION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "@( expr )",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "CDS Path Expressions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
         }
     ]
 }

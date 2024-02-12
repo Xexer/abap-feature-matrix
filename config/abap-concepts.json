@@ -51,6 +51,22 @@
             }
         },
         {
+            "Text": "ABAP for Key Users",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "ABAP Doc short texts (synchronized)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
             "Text": "ABAP Daemons",
             "GitLink": "",
             "Help": "",

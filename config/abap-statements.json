@@ -179,6 +179,14 @@
             }
         },
         {
+            "Text": "RAISE EXCEPTION ... MESSAGE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
             "Text": "ENUM",
             "GitLink": "",
             "Help": "",

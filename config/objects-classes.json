@@ -11,6 +11,30 @@
             }
         },
         {
+            "Text": "CL_ABAP_CORRESPONDING",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "CL_DBI_UTILITIES",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "CL_DYNAMIC_DESTINATION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_PARALLEL (*)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects.md#cl_abap_parallel",
             "Help": "",
