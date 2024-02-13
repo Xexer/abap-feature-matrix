@@ -234,6 +234,118 @@
             "Release": {
                 "1709": "x"
             }
+        },
+        {
+            "Text": "Secondary Connections",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "IS INITIAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TIMS_IS_VALID",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_IS_VALID",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_CURRENT_UTCTIMESTAMP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_SECONDS_BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_ADD_SECONDS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_DATS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_TIMS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_DST",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "DATS_TIMS_TO_TSTMP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "ABAP_SYSTEM_TIMEZONE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "ABAP_USER_TIMEZONE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "WITH ASSOCIATIONS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
         }
     ]
 }

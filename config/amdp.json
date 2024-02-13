@@ -65,6 +65,14 @@
             "Release": {
                 "1709": "x"
             }
+        },
+        {
+            "Text": "AMDP Scalar Functions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
         }
     ]
 }

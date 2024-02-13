@@ -84,6 +84,14 @@
             }
         },
         {
+            "Text": "CL_MESSAGE_HELPER (GET_LATEST_T100_EXCEPTION)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_BIGINT",
             "GitLink": "",
             "Help": "",

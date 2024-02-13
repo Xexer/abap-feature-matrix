@@ -83,6 +83,22 @@
             }
         },
         {
+            "Text": "HANA only",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Open SQL -> ABAP SQL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
             "Text": "ABAP for Cloud Development",
             "GitLink": "",
             "Help": "",

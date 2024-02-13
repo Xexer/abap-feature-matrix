@@ -195,6 +195,14 @@
             }
         },
         {
+            "Text": "RAISE SHORTDUMP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
             "Text": "FINAL",
             "GitLink": "",
             "Help": "",
