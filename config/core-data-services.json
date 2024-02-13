@@ -60,6 +60,14 @@
             }
         },
         {
+            "Text": "Metadata Extensions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
             "Text": "Hierarchy",
             "GitLink": "",
             "Help": "",

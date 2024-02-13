@@ -19,6 +19,22 @@
             }
         },
         {
+            "Text": "CL_ABAP_CORRESPONDING (CREATE_USING)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_CORRESPONDING (EXECUTE_USING)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
             "Text": "CL_DBI_UTILITIES",
             "GitLink": "",
             "Help": "",

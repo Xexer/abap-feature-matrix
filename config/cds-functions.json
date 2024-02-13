@@ -259,11 +259,83 @@
             }
         },
         {
-            "Text": "TSTMP_ADD_SECONDS ",
+            "Text": "TSTMP_ADD_SECONDS",
             "GitLink": "",
             "Help": "",
             "Release": {
                 "1511": "x"
+            }
+        },
+        {
+            "Text": "UPPER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "LOWER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "ABAP_SYSTEM_TIMEZONE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "ABAP_USER_TIMEZONE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_DATS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_TIMS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "TSTMP_TO_DST",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DATS_TIMS_TO_TSTMP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "FLTP_TO_DEC",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
             }
         },
         {

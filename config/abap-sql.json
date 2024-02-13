@@ -74,6 +74,118 @@
             "Release": {
                 "1511": "x"
             }
+        },
+        {
+            "Text": "Common Table Expressions (WITH)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "Cross Join",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DIVISION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "LOWER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "UPPER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "LEFT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "CONCAT_WITH_SPACE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "INSTR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "RPAD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DATS_IS_VALID",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DATS_DAYS_BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DATS_ADD_DAYS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "DATS_ADD_MONTHS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "EXTENDED RESULT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
         }
     ]
 }
