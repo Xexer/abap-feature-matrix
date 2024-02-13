@@ -186,6 +186,54 @@
             "Release": {
                 "1610": "x"
             }
+        },
+        {
+            "Text": "Operator LIKE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "BINTOHEX",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "HEXTOBIN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "WITH PRIVILEGED ACCESS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "NOT BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "NOT LIKE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
         }
     ]
 }

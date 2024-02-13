@@ -35,6 +35,14 @@
             }
         },
         {
+            "Text": "CL_ABAP_CORRESPONDING (CREATE_WITH_VALUE)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
             "Text": "CL_DBI_UTILITIES",
             "GitLink": "",
             "Help": "",
@@ -57,6 +65,14 @@
             "Release": {
                 "1511": "d",
                 "1909": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_ITAB_UTILITIES (VIRTUAL_SORT)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
             }
         },
         {

@@ -61,6 +61,14 @@
             }
         },
         {
+            "Text": "CL_OSQL_REPLACE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
             "Text": "Function Double",
             "GitLink": "",
             "Help": "",

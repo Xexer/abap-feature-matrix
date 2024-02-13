@@ -75,6 +75,14 @@
             }
         },
         {
+            "Text": "ABAP Doc links",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
             "Text": "ABAP for Cloud Development",
             "GitLink": "",
             "Help": "",

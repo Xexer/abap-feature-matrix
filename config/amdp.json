@@ -41,6 +41,30 @@
             "Release": {
                 "1610": "x"
             }
+        },
+        {
+            "Text": "Reference to ABAP Types",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "AMDP OPTIONS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Logical HDI Containers",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
         }
     ]
 }
