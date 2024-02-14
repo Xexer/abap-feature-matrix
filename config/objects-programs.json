@@ -1,0 +1,22 @@
+{
+    "Name": "Objects - Program",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "RUTDDLS_MIGRATION_CANDIDATES",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "RUTDDLSV2MIGRATION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        }
+    ]
+}

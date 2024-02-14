@@ -91,6 +91,14 @@
             "Release": {
                 "2020": "x"
             }
+        },
+        {
+            "Text": "AS BITFIELD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
         }
     ]
 }

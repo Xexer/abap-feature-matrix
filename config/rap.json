@@ -179,6 +179,118 @@
             }
         },
         {
+            "Text": "STRICT mode",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Nested Determinations on Modify",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "AUTHORIZATION:UPDATE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "ALWAYS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "FEATURES:GLOBAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "AUTHORIZATION MASTER (GLOBAL)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "LOCK:NONE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EARLY NUMBERING",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "AND CLEANUP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Define Authorization Context",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Actions and Functions in Projection",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "FIELD(SUPPRESS)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Abstract Behavior Definitions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "WITH CONTROL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
             "Text": "Events",
             "GitLink": "",
             "Help": "",

@@ -658,6 +658,174 @@
             "Release": {
                 "2020": "x"
             }
+        },
+        {
+            "Text": "INITCAP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "IS_VALID",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_YEAR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_MONTH",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_DAY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_HOUR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_MINUTE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXTRACT_SECOND",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "DAYNAME",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "MONTHNAME",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "WEEKDAY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "DAYS_BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "ADD_DAYS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "ADD_MONTHS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "New Casts",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "INTERSECT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "EXCEPT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": " UNIT_CONVERSION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "NULL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SUBSTRING_REGEXPR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "INDICATORS ... NULL BITFIELD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
         }
     ]
 }

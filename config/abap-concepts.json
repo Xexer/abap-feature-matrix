@@ -123,6 +123,30 @@
             }
         },
         {
+            "Text": "XPath and XSD Regular Expressions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Alias Names for Secondary Keys",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SELF",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
             "Text": "ABAP Cloud - Software Components",
             "GitLink": "",
             "Help": "",

@@ -132,6 +132,30 @@
             }
         },
         {
+            "Text": "EXTEND ABSTRACT ENTITY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "REDEFINE ASSOCIATION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "PROVIDER CONTRACT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
             "Text": "Simple Type",
             "GitLink": "",
             "Help": "",

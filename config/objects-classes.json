@@ -100,6 +100,14 @@
             }
         },
         {
+            "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_CONTEXT)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_BIGINT",
             "GitLink": "",
             "Help": "",

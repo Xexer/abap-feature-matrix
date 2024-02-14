@@ -53,10 +53,15 @@
         "Title": "Objects - Classes",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-classes.json",
         "Order": 11
-    } ,
+    },
     {
         "Title": "Objects - Interfaces",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-interfaces.json",
         "Order": 12
-    }                
+    },
+    {
+        "Title": "Objects - Programs",
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/objects-programs.json",
+        "Order": 13
+    }
 ]

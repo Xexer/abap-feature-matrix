@@ -449,6 +449,54 @@
             "Release": {
                 "2020": "x"
             }
+        },
+        {
+            "Text": "GET_NUMERIC_VALUE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "CURR_TO_DECFLOAT_AMOUNT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SERIES_GENERATE_DATE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SERIES_GENERATE_INTEGER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SERIES_GENERATE_TIME",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "SERIES_GENERATE_TIMESTAMP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
         }
     ]
 }

@@ -43,7 +43,7 @@
             }
         },
         {
-            "Text": "EXCEPT",
+            "Text": "EXCEPT (View Entity)",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -51,7 +51,23 @@
             }
         },
         {
-            "Text": "INTERSECT",
+            "Text": "INTERSECT (View Entity)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "UNION (View Entity)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "DISTINCT (View Entity)",
             "GitLink": "",
             "Help": "",
             "Release": {
