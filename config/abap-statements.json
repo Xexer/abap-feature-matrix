@@ -203,14 +203,6 @@
             }
         },
         {
-            "Text": "+=",
-            "GitLink": "",
-            "Help": "",
-            "Release": {
-                "1909": "x"
-            }
-        },
-        {
             "Text": "ADD",
             "GitLink": "",
             "Help": "",
@@ -220,7 +212,7 @@
             }
         },
         {
-            "Text": "-=",
+            "Text": "+=",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -237,7 +229,7 @@
             }
         },
         {
-            "Text": "*=",
+            "Text": "-=",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -254,7 +246,7 @@
             }
         },
         {
-            "Text": "/=",
+            "Text": "*=",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -268,6 +260,14 @@
             "Release": {
                 "7402": "x",
                 "1909": "o"
+            }
+        },
+        {
+            "Text": "/=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
             }
         },
         {
