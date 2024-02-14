@@ -35,6 +35,14 @@
             }
         },
         {
+            "Text": "LOAD BULK|INCREMENTAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
             "Text": "EXCEPT",
             "GitLink": "",
             "Help": "",

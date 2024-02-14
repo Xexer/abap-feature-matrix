@@ -20,7 +20,31 @@
             }
         },
         {
-            "Text": "DECFLOAT16/34",
+            "Text": "DECFLOAT16",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "DECFLOAT34",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "DATN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "TIMN",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -29,6 +53,31 @@
         },
         {
             "Text": "UTCLONG",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "GEOM_EWKB",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "Flagging of Deprecated Data",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#flagging-of-deprecated-data",
+            "Help": "",
+            "Release": {
+                "7402": "d",
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "DEFINE DYNAMIC CACHE",
             "GitLink": "",
             "Help": "",
             "Release": {

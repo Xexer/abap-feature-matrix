@@ -203,6 +203,82 @@
             }
         },
         {
+            "Text": "+=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "ADD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "1909": "o"
+            }
+        },
+        {
+            "Text": "-=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "SUBTRACT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "1909": "o"
+            }
+        },
+        {
+            "Text": "*=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "MULTIPLY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "1909": "o"
+            }
+        },
+        {
+            "Text": "/=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "DIVIDE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "7402": "x",
+                "1909": "o"
+            }
+        },
+        {
+            "Text": "&&=",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
             "Text": "FINAL",
             "GitLink": "",
             "Help": "",

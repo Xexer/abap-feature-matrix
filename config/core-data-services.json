@@ -92,6 +92,30 @@
             }
         },
         {
+            "Text": "CDS Projection View",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "Custom Entity",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "ROOT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
             "Text": "Typed Literal",
             "GitLink": "",
             "Help": "",

@@ -346,6 +346,70 @@
             "Release": {
                 "1809": "x"
             }
+        },
+        {
+            "Text": "INTO ... NEW",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "INTO ... INDICATORS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "STRING_AGG",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "PERIOD FROM TO VALID FROM TO",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "HIERARCHY_DESCENDANTS_AGGREGATE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "LEAD",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "LAG",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "UUID",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
         }
     ]
 }

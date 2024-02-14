@@ -73,6 +73,14 @@
             "Release": {
                 "1809": "x"
             }
+        },
+        {
+            "Text": "Specifying CDS Entities After USING",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
         }
     ]
 }
