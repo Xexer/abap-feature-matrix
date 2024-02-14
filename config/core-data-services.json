@@ -116,6 +116,14 @@
             }
         },
         {
+            "Text": "EXTEND VIEW ENTITY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
             "Text": "Typed Literal",
             "GitLink": "",
             "Help": "",

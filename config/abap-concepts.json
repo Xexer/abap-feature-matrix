@@ -107,6 +107,14 @@
             }
         },
         {
+            "Text": "PCRE regular expressions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
             "Text": "Component Selector; cref->(attr_name)",
             "GitLink": "",
             "Help": "",

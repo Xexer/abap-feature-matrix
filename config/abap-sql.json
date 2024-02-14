@@ -410,6 +410,254 @@
             "Release": {
                 "1909": "x"
             }
+        },
+        {
+            "Text": "ALLOW_PRECISION_LOSS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "FIRST_VALUE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "LAST_VALUE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TSTMPL_TO_UTCL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TSTMPL_FROM_UTCL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DATS_TO_DATN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DATS_FROM_DATN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TIMS_TO_TIMN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TIMS_FROM_TIMN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "UTCL_CURRENT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "UTCL_ADD_SECONDS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "UTCL_SECONDS_BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DATN_DAYS_BETWEEN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DATN_ADD_DAYS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DATN_ADD_MONTHS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "NULLS FIRST",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "NULLS LAST",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "MEDIAN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "STDDEV",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "VAR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "CORR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "CORR_SPEARMAN",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "AS_GEO_JSON",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "NTILE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TO_BLOB",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "TO_CLOB",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "CURRENCY_CONVERSION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Typed Literals",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "REPLACE_REGEXPR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "LIKE_REGEXPR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "OCCURRENCES_REGEXPR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
         }
     ]
 }

@@ -83,6 +83,94 @@
             }
         },
         {
+            "Text": "MAPPING FOR",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "WITH ADDITIONAL SAVE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "WITH UNMANAGED SAVE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "NUMBERING:MANAGED",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "New Options for Output Parameters",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": " LOCK MASTER UNMANAGED",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "WITH DRAFT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "DETERMINE ACTION",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "PRECHECK",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "MANDATORY:CREATE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "READONLY:UPDATE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
             "Text": "Augmentation",
             "GitLink": "",
             "Help": "",

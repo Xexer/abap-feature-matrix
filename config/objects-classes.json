@@ -92,6 +92,14 @@
             }
         },
         {
+            "Text": "CX_SY_STRING_SIZE_TOO_LARGE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_BIGINT",
             "GitLink": "",
             "Help": "",
