@@ -108,6 +108,14 @@
             }
         },
         {
+            "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_PHASE)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_BIGINT",
             "GitLink": "",
             "Help": "",
@@ -117,6 +125,14 @@
         },
         {
             "Text": "CL_ABAP_RATIONAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_DIFF",
             "GitLink": "",
             "Help": "",
             "Release": {

@@ -333,6 +333,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "CORRESPONDING (DEFAULT)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

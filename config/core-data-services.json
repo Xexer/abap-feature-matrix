@@ -202,6 +202,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "New Cardinality Syntax",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

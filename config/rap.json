@@ -433,6 +433,86 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "NOTRIGGER[:WARN]",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Static Default Factory Actions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "OPTIMIZED",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "AUTHORIZATION:GLOBAL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "AUTHORIZATION:INSTANCE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "WITH MANAGED INSTANCE FILTER",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "EXTENSION FOR ABSTRACT",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "DRAFT ACTION ADDITIONALSAVE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "BOPF-Based RAP BO Migration",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "CL_ABAP_TX",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

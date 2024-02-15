@@ -826,6 +826,22 @@
             "Release": {
                 "2021": "x"
             }
+        },
+        {
+            "Text": "New Cardinality",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "PRIVILEGED ACCESS",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }
