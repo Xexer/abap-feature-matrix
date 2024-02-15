@@ -303,6 +303,14 @@
             }
         },
         {
+            "Text": "struc-(comp)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
             "Text": "ELSE UNASSIGN",
             "GitLink": "",
             "Help": "",

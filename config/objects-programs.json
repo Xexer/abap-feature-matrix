@@ -1,5 +1,5 @@
 {
-    "Name": "Objects - Program",
+    "Name": "Objects - Programs",
     "Description": "",
     "Content": [
         {
@@ -16,6 +16,14 @@
             "Help": "",
             "Release": {
                 "2021": "x"
+            }
+        },
+        {
+            "Text": "RUT_WHERE_USE_SQLVIEW",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
             }
         }
     ]

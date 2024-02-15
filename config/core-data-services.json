@@ -156,6 +156,30 @@
             }
         },
         {
+            "Text": "ANALYTICAL_QUERY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "TRANSACTIONAL_INTERFACE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "EXTEND CUSTOM ENTITY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
             "Text": "Simple Type",
             "GitLink": "",
             "Help": "",

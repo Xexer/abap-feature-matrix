@@ -497,6 +497,14 @@
             "Release": {
                 "2021": "x"
             }
+        },
+        {
+            "Text": "CASE ELSE NULL",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
         }
     ]
 }

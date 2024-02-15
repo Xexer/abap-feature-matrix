@@ -291,7 +291,7 @@
             }
         },
         {
-            "Text": "Events",
+            "Text": "Business Events",
             "GitLink": "",
             "Help": "",
             "Release": {
@@ -300,6 +300,118 @@
         },
         {
             "Text": "Late Numbering",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "WITH PRIVILEGED MODE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Interface Behavior Definitions",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "FIELD(SUPPRESS)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "WITH FULL DATA",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Extensions for RAP",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Extensions for RAP Projection",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "STRICT(2)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "QUERY",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "MANDATORY:EXECUTE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "RESULT SELECTIVE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Save Actions with Phase Specification",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "REPEATABLE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "EXTEND SERVICE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "RAISE ENTITY EVENT",
             "GitLink": "",
             "Help": "",
             "Release": {
