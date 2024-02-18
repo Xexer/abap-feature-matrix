@@ -84,22 +84,6 @@
             }
         },
         {
-            "Text": "CL_MESSAGE_HELPER (GET_LATEST_T100_EXCEPTION)",
-            "GitLink": "",
-            "Help": "",
-            "Release": {
-                "1809": "x"
-            }
-        },
-        {
-            "Text": "CX_SY_STRING_SIZE_TOO_LARGE",
-            "GitLink": "",
-            "Help": "",
-            "Release": {
-                "2020": "x"
-            }
-        },
-        {
             "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_CONTEXT)",
             "GitLink": "",
             "Help": "",
@@ -113,6 +97,22 @@
             "Help": "",
             "Release": {
                 "2023": "x"
+            }
+        },
+        {
+            "Text": "CL_MESSAGE_HELPER (GET_LATEST_T100_EXCEPTION)",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "CX_SY_STRING_SIZE_TOO_LARGE",
+            "GitLink": "",
+            "Help": "",
+            "Release": {
+                "2020": "x"
             }
         },
         {

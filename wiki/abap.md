@@ -112,17 +112,101 @@ The new Boolean function `xsdbool` returns the value X or a blank of the type c 
 
 The new filter operator `FILTER` can be used to perform table filtering in which conditions are used to select or remove lines from an internal table.
 
-### FOR GROUPS
-[SAP Help]()
+### FOR GROUPS OF
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_groups_of.htm)
+
+The new variant `FOR GROUPS ... OF` in an iteration expression for table iterations using FOR can be used to group the lines of internal tables and to evaluate the groups.
+
+### FOR IN GROUP
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_in_group.htm)
+
+The new variant `FOR ... IN GROUP` in an iteration expression for table iterations using FOR can be used to group the lines of internal tables and to evaluate the groups.
 
 ### DEFAULT (method definitions)
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethods_default.htm)
+
+The new addition `DEFAULT` of the statements METHODS and CLASS-METHODS can be used to make general methods, functional methods, plus event handlers of interfaces optional.
 
 ### VALUE #( ... DEFAULT/OPTIONAL)
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_exp_optional_default.htm)
+
+If the type of the result of a table expression or a chaining of table expressions is controlled using the constructor operators VALUE or REF, the additions OPTIONAL and DEFAULT can be used to specify a default value. If no lines are found, no exception is raised and the default value is returned instead.
 
 ### IS INSTANCE OF
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenlogexp_instance_of.htm)
+
+The new predicate expression `IS INSTANCE OF` can be used to detect the dynamic type of an object reference variable. This makes it possible to check the feasibility of a downcast before it is executed.
+
+### CASE TYPE OF
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapcase_type.htm)
+
+The special statement `CASE TYPE OF` makes it possible to check the dynamic type of an object reference variable as a case distinction.
+
+### RAISE EXCEPTION ... MESSAGE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_exception_message.htm)
+
+The new addition `MESSAGE` of the statement RAISE EXCEPTION and of the addition THROW in a conditional expression associates any message with an exception object.
+
+### ENUM
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenenumerated_types_usage.htm)
+
+The statement TYPES BEGIN OF ENUM can be used to define enumerated types for enumerated variables, which can have only enumerated values defined for this type.
+
+### RAISE SHORTDUMP
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_shortdump.htm)
+
+The new statement RAISE SHORTDUMP raises runtime errors associated with an exception object. This means more information can now be passed to the short dump than was previously possible in an exit message.
+
+### Calculation operations
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm)
+
+A calculation takes place when the assignment is made. These new operators make the statements ADD, SUBTRACT, MULTIPLY, and DIVIDE obsolete.
+
+### String concatenation
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignment_string.htm)
+
+This assignment has the same effect as the following assignment of a string expression:
+- lhs = lhs && rhs.
+
+### APPENDING BASE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm)
+
+It is now possible to specify statements with the component operator `CORRESPONDING` with the following additions in the context of nested tables in deep structures.
+
+### DEEP APPENDING BASE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm)
+
+It is now possible to specify statements with the component operator `CORRESPONDING` with the following additions in the context of nested tables in deep structures.
+
+### FINAL
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfinal_inline.htm)
+
+The new declaration operator FINAL declares an immutable variable that cannot be assigned another value at other write positions of the same context.
+
+### struc-(comp)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_dynamic_components.htm)
+
+Components of structures can be assigned to field symbols with the new syntax `struc-(comp)` that largely replaces the variant ASSIGN COMPONENT OF.
+
+### ELSE UNASSIGN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_else_unassign.htm)
+
+The new addition ELSE UNASSIGN can be specified for the following variants of the statement ASSIGN.
+
+### STEP
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaploop_at_itab_cond.htm#!ABAP_ADDITION_3@3@)
+
+The new addition STEP defines the step size and the order for processing an internal table. For the statements LOOP and FOR, STEP can be used to control the step size and the processing order. For the statements APPEND, DELETE, INSERT, VALUE, and NEW, STEP can only be used to define the step size. It is not possible to change the processing order with STEP for these statements.
+
+### RETURN value
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapreturn.htm)
+
+In functional methods, the statement RETURN can be used to assign the result of an expression expr to the return value when terminating the method.
+
+### CORRESPONDING (DEFAULT)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_mapping.htm#!ABAP_ADDITION_2@2@)
+
+The addition DEFAULT allows the assignment of values for a target component based on an expression.
 
 ## ABAP SQL
 

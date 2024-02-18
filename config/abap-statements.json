@@ -68,7 +68,7 @@
         },
         {
             "Text": "itab[]",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#itab[]",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#itab",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_expressions.htm",
             "Release": {
                 "7402": "x"
@@ -147,73 +147,81 @@
             }
         },
         {
-            "Text": "FOR GROUPS",
-            "GitLink": "",
-            "Help": "",
+            "Text": "FOR GROUPS OF",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#for-groups-of",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_groups_of.htm",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "FOR IN GROUP",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#for-in-group",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_in_group.htm",
             "Release": {
                 "7408": "x"
             }
         },
         {
             "Text": "DEFAULT (method definitions)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#default-method-definitions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethods_default.htm",
             "Release": {
                 "7408": "x"
             }
         },
         {
             "Text": "VALUE #( ... DEFAULT/OPTIONAL)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#value---defaultoptional",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_exp_optional_default.htm",
             "Release": {
                 "7408": "x"
             }
         },
         {
             "Text": "IS INSTANCE OF",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#is-instance-of",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenlogexp_instance_of.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "CASE TYPE OF",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#case-type-of",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapcase_type.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "RAISE EXCEPTION ... MESSAGE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#raise-exception-message",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_exception_message.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "ENUM",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#enum",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenenumerated_types_usage.htm",
             "Release": {
                 "1610": "x"
             }
         },
         {
             "Text": "RAISE SHORTDUMP",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#raise-shortdump",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_shortdump.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "ADD",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
                 "1909": "o"
@@ -221,16 +229,16 @@
         },
         {
             "Text": "+=",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "SUBTRACT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
                 "1909": "o"
@@ -238,16 +246,16 @@
         },
         {
             "Text": "-=",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "MULTIPLY",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
                 "1909": "o"
@@ -255,16 +263,16 @@
         },
         {
             "Text": "*=",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "DIVIDE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
                 "1909": "o"
@@ -272,80 +280,80 @@
         },
         {
             "Text": "/=",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "&&=",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#string-concatenation",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignment_string.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "APPENDING BASE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#appending-base",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm#!ABAP_ADDITION_4@4@",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "DEEP APPENDING BASE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#deep-appending-base",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm#!ABAP_ADDITION_5@5@",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "FINAL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#final",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfinal_inline.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "struc-(comp)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#struc-comp",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_dynamic_components.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "ELSE UNASSIGN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#else-unassign",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_else_unassign.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "STEP",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#step",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaploop_at_itab_cond.htm#!ABAP_ADDITION_3@3@",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "RETURN value",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#return-value",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapreturn.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "CORRESPONDING (DEFAULT)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#corresponding-default",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_mapping.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2023": "x"
             }
