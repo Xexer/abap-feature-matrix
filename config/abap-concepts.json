@@ -5,7 +5,7 @@
         {
             "Text": "Inline Declaration",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#inline-declaration",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abeninline_declarations.htm",
             "Release": {
                 "7402": "x"
             }
@@ -44,8 +44,8 @@
         },
         {
             "Text": "Predicative Method Calls",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#predicative-method-calls",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenpredicative_method_calls.htm",
             "Release": {
                 "7408": "x"
             }

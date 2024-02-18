@@ -5,7 +5,7 @@
         {
             "Text": "NEW",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#new",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_new.htm",
             "Release": {
                 "7402": "x"
             }
@@ -13,7 +13,7 @@
         {
             "Text": "VALUE",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#value",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_value.htm",
             "Release": {
                 "7402": "x"
             }
@@ -21,7 +21,7 @@
         {
             "Text": "REF",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#ref",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_ref.htm",
             "Release": {
                 "7402": "x"
             }
@@ -29,7 +29,7 @@
         {
             "Text": "EXACT",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#exact",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_exact.htm",
             "Release": {
                 "7402": "x"
             }
@@ -37,7 +37,7 @@
         {
             "Text": "CONV",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#conv",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_conv.htm",
             "Release": {
                 "7402": "x"
             }
@@ -45,7 +45,7 @@
         {
             "Text": "CAST",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cast",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_cast.htm",
             "Release": {
                 "7402": "x"
             }
@@ -53,7 +53,7 @@
         {
             "Text": "COND",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cond",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconditional_expression_cond.htm",
             "Release": {
                 "7402": "x"
             }
@@ -61,79 +61,87 @@
         {
             "Text": "SWITCH",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#switch",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconditional_expression_switch.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
-            "Text": "itab[ ... ]",
-            "GitLink": "",
-            "Help": "",
+            "Text": "itab[]",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#itab[]",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_expressions.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
             "Text": "LINE_INDEX",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#line_index",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenline_index_function.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
             "Text": "LINE_EXISTS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#line_exists",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenline_exists_function.htm",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "EMPTY KEY",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#empty-key",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaptypes_primary_key.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
             "Text": "WAIT FOR MESSAGING CHANNELS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#wait-for-messaging-channels",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwait_amc.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
             "Text": "LET",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#let",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaplet.htm",
             "Release": {
                 "7405": "x"
             }
         },
         {
             "Text": "CORRESPONDING",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#corresponding",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expr_corresponding.htm",
             "Release": {
                 "7405": "x"
             }
         },
         {
             "Text": "WAIT FOR PUSH CHANNELS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#wait-for-push-channels",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwait_apc.htm",
             "Release": {
                 "7405": "x"
             }
         },
         {
             "Text": "XSDBOOL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#xsdbool",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenboole_functions.htm",
             "Release": {
                 "7408": "x"
             }
         },
         {
             "Text": "FILTER",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#filter",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_filter.htm",
             "Release": {
                 "7408": "x"
             }

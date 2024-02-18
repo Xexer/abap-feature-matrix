@@ -45,7 +45,7 @@ Defines the available states of the objects, along with the title and icon for o
 ```
 
 ## Content files
-The content files contain the name (heading) and a description in the upper area, which is displayed above the table. The individual objects that are documented are listed in the Content area. The "Text" reflects the object and further information, the "GitLink" leads to documentation in the wiki and is generated as a link in the output. Currently the "Help" field is not used. The "Release" array contains information about the status of the object (see status.json). If a status is set, it is valid until a new status is set. Basically the initial status at the beginning is "-".
+The content files contain the name (heading) and a description in the upper area, which is displayed above the table. The individual objects that are documented are listed in the Content area. The "Text" reflects the object and further information, the "GitLink" leads to documentation in the wiki and is generated as a link in the output. Within "Help" you can find the official link to the documentation on SAP Help. The "Release" array contains information about the status of the object (see status.json). If a status is set, it is valid until a new status is set. Basically the initial status at the beginning is "-".
 
 ```JSON
 {
