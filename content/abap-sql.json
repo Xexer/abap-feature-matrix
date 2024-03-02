@@ -188,6 +188,14 @@
             }
         },
         {
+            "Text": "SELECT FROM @itab",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#select-from-itab",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
             "Text": "Operator LIKE",
             "GitLink": "",
             "Help": "",
@@ -839,6 +847,14 @@
             "Text": "PRIVILEGED ACCESS",
             "GitLink": "",
             "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Multiple table FROM @itab",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#multiple-tables-from-itab",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm",
             "Release": {
                 "2023": "x"
             }
