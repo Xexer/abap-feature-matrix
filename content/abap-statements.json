@@ -228,28 +228,12 @@
             }
         },
         {
-            "Text": "+=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
-            "Release": {
-                "1909": "x"
-            }
-        },
-        {
             "Text": "SUBTRACT",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
                 "1909": "o"
-            }
-        },
-        {
-            "Text": "-=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
-            "Release": {
-                "1909": "x"
             }
         },
         {
@@ -262,7 +246,16 @@
             }
         },
         {
-            "Text": "*=",
+            "Text": "DIVIDE",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
+            "Release": {
+                "7402": "x",
+                "1909": "o"
+            }
+        },
+        {
+            "Text": "+=",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
@@ -270,12 +263,19 @@
             }
         },
         {
-            "Text": "DIVIDE",
+            "Text": "-=",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
-                "7402": "x",
-                "1909": "o"
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "*=",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
+            "Release": {
+                "1909": "x"
             }
         },
         {
