@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "NEW",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#new",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#new",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_new.htm",
             "Release": {
                 "7402": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "VALUE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#value",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_value.htm",
             "Release": {
                 "7402": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "REF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#ref",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#ref",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_ref.htm",
             "Release": {
                 "7402": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "EXACT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#exact",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#exact",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_exact.htm",
             "Release": {
                 "7402": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "CONV",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#conv",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#conv",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_conv.htm",
             "Release": {
                 "7402": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "CAST",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cast",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#cast",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_cast.htm",
             "Release": {
                 "7402": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "COND",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#cond",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#cond",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconditional_expression_cond.htm",
             "Release": {
                 "7402": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "SWITCH",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#switch",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#switch",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconditional_expression_switch.htm",
             "Release": {
                 "7402": "x"
@@ -68,7 +68,7 @@
         },
         {
             "Text": "itab[]",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#itab",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#itab",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_expressions.htm",
             "Release": {
                 "7402": "x"
@@ -76,7 +76,7 @@
         },
         {
             "Text": "LINE_INDEX",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#line_index",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#line_index",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenline_index_function.htm",
             "Release": {
                 "7402": "x"
@@ -84,7 +84,7 @@
         },
         {
             "Text": "LINE_EXISTS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#line_exists",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#line_exists",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenline_exists_function.htm",
             "Release": {
                 "7402": "x"
@@ -92,7 +92,7 @@
         },
         {
             "Text": "EMPTY KEY",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#empty-key",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#empty-key",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaptypes_primary_key.htm",
             "Release": {
                 "7402": "x"
@@ -100,7 +100,7 @@
         },
         {
             "Text": "WAIT FOR MESSAGING CHANNELS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#wait-for-messaging-channels",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#wait-for-messaging-channels",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwait_amc.htm",
             "Release": {
                 "7402": "x"
@@ -108,7 +108,7 @@
         },
         {
             "Text": "LET",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#let",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#let",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaplet.htm",
             "Release": {
                 "7405": "x"
@@ -116,7 +116,7 @@
         },
         {
             "Text": "CORRESPONDING",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#corresponding",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#corresponding",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expr_corresponding.htm",
             "Release": {
                 "7405": "x"
@@ -124,7 +124,7 @@
         },
         {
             "Text": "WAIT FOR PUSH CHANNELS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#wait-for-push-channels",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#wait-for-push-channels",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwait_apc.htm",
             "Release": {
                 "7405": "x"
@@ -132,7 +132,7 @@
         },
         {
             "Text": "XSDBOOL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#xsdbool",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#xsdbool",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenboole_functions.htm",
             "Release": {
                 "7408": "x"
@@ -140,7 +140,7 @@
         },
         {
             "Text": "FILTER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#filter",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#filter",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_filter.htm",
             "Release": {
                 "7408": "x"
@@ -148,7 +148,7 @@
         },
         {
             "Text": "FOR GROUPS OF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#for-groups-of",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#for-groups-of",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_groups_of.htm",
             "Release": {
                 "7408": "x"
@@ -156,7 +156,7 @@
         },
         {
             "Text": "FOR IN GROUP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#for-in-group",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#for-in-group",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfor_in_group.htm",
             "Release": {
                 "7408": "x"
@@ -164,7 +164,7 @@
         },
         {
             "Text": "DEFAULT (method definitions)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#default-method-definitions",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#default-method-definitions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethods_default.htm",
             "Release": {
                 "7408": "x"
@@ -172,7 +172,7 @@
         },
         {
             "Text": "VALUE #( ... DEFAULT/OPTIONAL)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#value---defaultoptional",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#value---defaultoptional",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentable_exp_optional_default.htm",
             "Release": {
                 "7408": "x"
@@ -180,7 +180,7 @@
         },
         {
             "Text": "IS INSTANCE OF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#is-instance-of",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#is-instance-of",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenlogexp_instance_of.htm",
             "Release": {
                 "1511": "x"
@@ -188,7 +188,7 @@
         },
         {
             "Text": "CASE TYPE OF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#case-type-of",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#case-type-of",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapcase_type.htm",
             "Release": {
                 "1511": "x"
@@ -196,7 +196,7 @@
         },
         {
             "Text": "RAISE EXCEPTION ... MESSAGE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#raise-exception-message",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#raise-exception-message",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_exception_message.htm",
             "Release": {
                 "1511": "x"
@@ -204,7 +204,7 @@
         },
         {
             "Text": "ENUM",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#enum",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#enum",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenenumerated_types_usage.htm",
             "Release": {
                 "1610": "x"
@@ -212,7 +212,7 @@
         },
         {
             "Text": "RAISE SHORTDUMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#raise-shortdump",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#raise-shortdump",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapraise_shortdump.htm",
             "Release": {
                 "1809": "x"
@@ -220,7 +220,7 @@
         },
         {
             "Text": "ADD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
@@ -229,7 +229,7 @@
         },
         {
             "Text": "+=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
@@ -237,7 +237,7 @@
         },
         {
             "Text": "SUBTRACT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
@@ -246,7 +246,7 @@
         },
         {
             "Text": "-=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
@@ -254,7 +254,7 @@
         },
         {
             "Text": "MULTIPLY",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
@@ -263,7 +263,7 @@
         },
         {
             "Text": "*=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
@@ -271,7 +271,7 @@
         },
         {
             "Text": "DIVIDE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "7402": "x",
@@ -280,7 +280,7 @@
         },
         {
             "Text": "/=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#calculation-operations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#calculation-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignments.htm",
             "Release": {
                 "1909": "x"
@@ -288,7 +288,7 @@
         },
         {
             "Text": "&&=",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#string-concatenation",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#string-concatenation",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencalculation_assignment_string.htm",
             "Release": {
                 "1909": "x"
@@ -296,7 +296,7 @@
         },
         {
             "Text": "APPENDING BASE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#appending-base",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#appending-base",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm#!ABAP_ADDITION_4@4@",
             "Release": {
                 "2021": "x"
@@ -304,7 +304,7 @@
         },
         {
             "Text": "DEEP APPENDING BASE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#deep-appending-base",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#deep-appending-base",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_arg_type.htm#!ABAP_ADDITION_5@5@",
             "Release": {
                 "2021": "x"
@@ -312,7 +312,7 @@
         },
         {
             "Text": "FINAL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#final",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#final",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenfinal_inline.htm",
             "Release": {
                 "2022": "x"
@@ -320,7 +320,7 @@
         },
         {
             "Text": "struc-(comp)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#struc-comp",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#struc-comp",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_dynamic_components.htm",
             "Release": {
                 "2022": "x"
@@ -328,7 +328,7 @@
         },
         {
             "Text": "ELSE UNASSIGN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#else-unassign",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#else-unassign",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapassign_else_unassign.htm",
             "Release": {
                 "2022": "x"
@@ -336,7 +336,7 @@
         },
         {
             "Text": "STEP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#step",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#step",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaploop_at_itab_cond.htm#!ABAP_ADDITION_3@3@",
             "Release": {
                 "2022": "x"
@@ -344,7 +344,7 @@
         },
         {
             "Text": "RETURN value",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#return-value",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#return-value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapreturn.htm",
             "Release": {
                 "2023": "x"
@@ -352,7 +352,7 @@
         },
         {
             "Text": "CORRESPONDING (DEFAULT)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap.md#corresponding-default",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#corresponding-default",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencorresponding_constr_mapping.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2023": "x"

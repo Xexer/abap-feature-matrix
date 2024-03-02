@@ -4,6 +4,7 @@
 The following directories you will find in the project.
 
 - **config** - Configuration files
+- **content** - ABAP content
 - **wiki** - Wiki pages for more Informations
 - **admin** - Administrative files for the project
 
@@ -16,7 +17,7 @@ The file contains a list of all relevant files with content to build the overall
 ```JSON
 {
     "Title": "ABAP Statements",
-    "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/config/abap-statements.json",
+    "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-statements.json",
     "Order": 1
 },
 ```
