@@ -3,6 +3,14 @@
     "Description" : "",
     "Content": [
         {
+            "Text": "CALL DATABASE PROCEDURE",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#call-database-procedure",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapcall_database_procedure.htm",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
             "Text": "IF_AMDP_MARKER_HDB",
             "GitLink": "",
             "Help": "",
