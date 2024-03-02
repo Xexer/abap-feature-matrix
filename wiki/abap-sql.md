@@ -206,7 +206,140 @@ The `ALLOW_PRECISION_LOSS` statement can improve the performance of an aggregate
 
 Specifies one of the value functions FIRST_VALUE or LAST_VALUE as a window function. The FIRST_VALUE function returns the first value of a sorted set of values, the LAST_VALUE function returns the last value of a sorted set of values.
 
+## TSTMPL_TO_UTCL
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_5@5@)
 
+The function `TSTMPL_TO_UTCL` converts a time stamp tstmpl from the ABAP Dictionary type TIMESTAMPL to the built-in dictionary type UTCLONG.
+
+## TSTMPL_FROM_UTCL
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_6@6@)
+
+The function `TSTMPL_FROM_UTCL` converts a time stamp utcl from the built-in dictionary type UTCLONG to the ABAP Dictionary type TIMESTAMPL.
+
+## DATS_TO_DATN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_7@7@)
+
+The function `DATS_TO_DATN` converts a date dats from the built-in ABAP Dictionary data type DATS to the built-in ABAP Dictionary type DATN.
+
+## DATS_FROM_DATN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_8@8@)
+
+The function `DATS_FROM_DATN` converts a date date from the built-in ABAP Dictionary data type DATN to the built-in ABAP Dictionary type DATS.
+
+## TIMS_TO_TIMN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_9@9@)
+
+The function `TIMS_TO_TIMN` converts a time tims from the ABAP Dictionary type TIMS to the ABAP Dictionary type TIMN.
+
+## TIMS_FROM_TIMN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_10@10@)
+
+The function `TIMS_FROM_TIMN` converts a time time from the ABAP Dictionary type TIMN to the ABAP Dictionary type TIMS.
+
+## UTCL_CURRENT
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_1@1@)
+
+This function generates a UTC time stamp from the system time and the system date of AS ABAP in accordance with POSIX. The return value has the built-in dictionary type UTCLONG.
+
+## UTCL_ADD_SECONDS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_2@2@)
+
+The function `UTCL_ADD_SECONDS` adds seconds seconds to a time stamp utclong. It has two positional parameters. The actual parameter for the formal parameter utclong must have the built-in dictionary type UTCLONG and contain a valid time stamp in the format YYYYMMDDHHMMSSMMMUUUN.
+
+## UTCL_SECONDS_BETWEEN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_3@3@)
+
+The function `UTCL_SECONDS_BETWEEN` calculates the difference between two specified time stamps utcl1 and utcl2 in seconds. It has two positional parameters. The actual parameters for the formal parameters utcl1 and utcl2 must have the built-in dictionary type UTCLONG and contain a valid time stamp in the format YYYYMMDDHHMMSSMMMUUUN.
+
+## DATN_DAYS_BETWEEN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@11@)
+
+The function `DATN_DAYS_BETWEEN` calculates the difference between two specified dates date1 and date2 in days. The actual parameters must have the built-in data type DATN and must contain a valid date in the format YYYYMMDD. The result has the data type INT4.
+
+## DATN_ADD_DAYS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@12@)
+
+The function `DATN_ADD_DAYS` adds days days to a specified date date.
+
+## DATN_ADD_MONTHS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@13@)
+
+The function `DATN_ADD_MONTHS` adds months months to a specified date date.
+
+## NULLS FIRST/LAST
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@)
+
+The additions `NULLS FIRST` and `NULLS LAST` determine whether null values are placed in front of or after non-null values. If neither addition is specified, potential null values are placed at the beginning of the result set. If only DESCENDING is specified and no nulls occur, null values are placed at the end of the result set.
+
+## MEDIAN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_2@2@)
+
+Determines the statistical median of an input expression. Null values are ignored. If the number of non-null values is even, then the return value is the average of the two middle elements. Otherwise, the middle element is returned.
+
+## STDDEV
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_7@7@)
+
+Determines the standard deviation of a given expression as the square root of the VAR function. The result of the SQL expression sql_exp can have either the data type FLTP or DECFLOAT34.
+
+## VAR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_8@8@)
+
+Determines the variance of a given expression as the square of the standard deviation. The SQL expression sql_exp can only be FLTP or DECFLOAT34.
+
+## CORR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_9@9@)
+
+Determines the Pearson product-moment correlation coefficient between two columns. In other words, it measures the linear correlation of two value sets.
+
+## CORR_SPEARMAN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_10@10@)
+
+Determines the Spearman's rank correlation coefficient of the values found in the corresponding rows of two columns. In other words, it measures the monotonous correlation of two value sets.
+
+## AS_GEO_JSON
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_geo_conv_func.htm)
+
+The function AS_GEO_JSON reads geometry input in the Extended Well-Known Binary (EWKB) representation and returns a geometry object in JSON format.
+
+## NTILE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_5@5@)
+
+Specifies the ranking function NTILE as a window function. This window function divides the rows of a window into n buckets. The goal is to fill all buckets with the same number of rows by following the rule specified after ORDER BY.
+
+## TO_BLOB
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2B@4@)
+
+The TO_BLOB function converts the value of the operand sql_exp from a byte field of type RAW to a byte string (BLOB) of type RAWSTRING.
+
+## TO_CLOB
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2A@3@)
+
+The `TO_CLOB` function converts the value of the operand sql_exp from a character string of fixed length of type CHAR or SSTRING to a CLOB of type STRING.
+
+## CURRENCY_CONVERSION
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_2@2@)
+
+The function `CURRENCY_CONVERSION` performs a currency conversion for the value passed to the formal parameter amount. The result has the same data type as the formal parameter passed to amount. The currency conversion is performed on the basis of the client-dependent rules saved in the DDIC database tables TCUR... of package SFIB.
+
+## Typed Literals
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_typed_literals.htm)
+
+Typed literals can be created for all built-in ABAP Dictionary types with the exception of LCHR, LRAW, GEOM_EWKB, PREC, ACCP, DF16_SCL, and DF34_SCL.
+
+## REPLACE_REGEXPR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm)
+
+A Perl Compatible Regular Expression (PCRE) pcre is replaced in sql_exp1 with the character string specified in sql_exp2. occ is optional and determines the number of occurrences of pcre to be replaced. By default, all occurrences are replaced.
+
+## LIKE_REGEXPR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm)
+
+Checks whether sql_exp contains any occurrence of a Perl Compatible Regular Expression (PCRE) pcre and returns 1 if yes and 0 if no. The search is case-sensitive by default, but this can be overridden using the parameter case.
+
+## OCCURRENCES_REGEXPR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm)
+
+Counts all occurrences of a Perl Compatible Regular Expression (PCRE) pcre in sql_exp and returns the number of occurrences. The search is case-sensitive by default, but this can be overridden using the parameter case.
 
 ## Multiple tables FROM @itab
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm)

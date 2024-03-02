@@ -445,224 +445,224 @@
         },
         {
             "Text": "TSTMPL_TO_UTCL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tstmpl_to_utcl",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "TSTMPL_FROM_UTCL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tstmpl_from_utcl",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DATS_TO_DATN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#dats_to_datn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DATS_FROM_DATN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#dats_from_datn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "TIMS_TO_TIMN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tims_to_timn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "TIMS_FROM_TIMN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tims_from_timn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "UTCL_CURRENT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_current",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "UTCL_ADD_SECONDS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_add_seconds",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "UTCL_SECONDS_BETWEEN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_seconds_between",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DATN_DAYS_BETWEEN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_days_between",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@11@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DATN_ADD_DAYS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_add_days",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@12@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DATN_ADD_MONTHS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_add_months",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@13@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "NULLS FIRST",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#nulls-firstlast",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "NULLS LAST",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#nulls-firstlast",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "MEDIAN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#median",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "STDDEV",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#stddev",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "VAR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#var",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "CORR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#corr",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "CORR_SPEARMAN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#corr_spearman",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "AS_GEO_JSON",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#as_geo_json",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_geo_conv_func.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "NTILE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#ntile",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "TO_BLOB",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#to_blob",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2B@4@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "TO_CLOB",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#to_clob",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2A@3@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "CURRENCY_CONVERSION",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#currency_conversion",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "Typed Literals",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#typed-literals",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_typed_literals.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "REPLACE_REGEXPR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#replace_regexpr",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "LIKE_REGEXPR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#like_regexpr",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "OCCURRENCES_REGEXPR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#occurrences_regexpr",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
             }
