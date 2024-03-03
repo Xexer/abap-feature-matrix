@@ -341,6 +341,125 @@ Checks whether sql_exp contains any occurrence of a Perl Compatible Regular Expr
 
 Counts all occurrences of a Perl Compatible Regular Expression (PCRE) pcre in sql_exp and returns the number of occurrences. The search is case-sensitive by default, but this can be overridden using the parameter case.
 
+## INITCAP
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm)
+
+String with a length of sql_exp, in which the first letter of a word is transformed to uppercase, and all other letters are transformed to lowercase. A word is delimited by the following: beginning of a string, blank space, new line, form feed, carriage return, line feed, and anything after ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~.
+
+## IS_VALID
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@1@)
+
+The generic function `IS_VALID` determines whether the specification date, time, or utclong has a valid format.
+
+## EXTRACT_YEAR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@2@)
+
+The generic function `EXTRACT_YEAR` extracts the year of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## EXTRACT_MONTH
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@3@)
+
+The generic function `EXTRACT_MONTH` extracts the month of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## EXTRACT_DAY
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_4@4@)
+
+The generic function `EXTRACT_DAY` extracts the day of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## EXTRACT_HOUR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_2@2@)
+
+The generic function `EXTRACT_HOUR` extracts the hour of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
+
+## EXTRACT_MINUTE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_3@3@)
+
+The generic function `EXTRACT_MINUTE` extracts the minute of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
+
+## EXTRACT_SECOND
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_4@4@)
+
+The generic function EXTRACT_SECOND extracts the second of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
+
+## DAYNAME
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_5@5@)
+
+The generic function `DAYNAME` returns the name of a day of a date or a time stamp in uppercase letters in English. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## MONTHNAME
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_6@6@)
+
+The generic function `MONTHNAME` returns the name of a month of a date or a time stamp in uppercase letters in English. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## WEEKDAY
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_7@7@)
+
+The generic function `WEEKDAY` returns the number of a weekday of a date or a time stamp from 0 to 6. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
+
+## DAYS_BETWEEN
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_8@8@)
+
+The function `DAYS_BETWEEN` calculates the difference between two dates date1 or utclong1 and date2 or utclong2 in days. The actual parameters must have the built-in data type DATN, DATS, or UTCLONG and must contain a valid date in the format YYYYMMDD or a valid time stamp in a format like 0001-01-01T00:00:00.0000000.
+
+## ADD_DAYS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_9@9@)
+
+The function `ADD_DAYS` adds days days to a specified date date or time stamp utclong.
+
+## ADD_MONTHS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_10@10@)
+
+The function `ADD_MONTHS` adds months months to a specified date date or time stamp utclong.
+
+## New Casts
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_cast.htm)
+
+The following new casts are available for source types: CHAR, SSTRING, DATS, TIMS, FLTP,DF16_DEC, DF34_DEC, DATN, TIMN.
+
+## INTERSECT
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_2@2@)
+
+The ABAP SQL set operator INTERSECT returns all distinct rows of the result set of the query in front of INTERSECT that are also present in the result set of the query after INTERSECT.
+
+## EXCEPT
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_3@3@)
+
+The ABAP SQL set operator EXCEPT returns all distinct rows of the result set of the query in front of EXCEPT that are not present in the result set of the query after EXCEPT.
+
+## UNIT_CONVERSION
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_1@1@)
+
+The function `UNIT_CONVERSION` performs a unit conversion for the value passed to the formal parameter quantity. The result has the same data type as the formal parameter passed to quantity. The unit conversion is performed on the basis of the client-dependent rules saved in the DDIC database tables T006... of package SZME. These rules can be edited using transaction CUNI.
+
+## NULL
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_null.htm)
+
+Special null expression in ABAP SQL. The operand `NULL` represents the null value. Null expressions are context-dependent and the type of NULL is determined by the context. Generally, null expressions can be used in operand positions of SQL expressions.
+
+## SUBSTRING_REGEXPR
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm)
+
+Searches sql_exp for a Perl Compatible Regular Expression (PCRE) pattern pcre and returns the matched substring.
+
+## INDICATORS ... NULL BITFIELD
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_indicators.htm#!ABAP_ALTERNATIVE_2@2@)
+
+The new addition `INDICATORS ... NULL BITFIELD` of the INTO clause of a SELECT statement allows a byte field type component to be specified as a null indicator. The single bits of the byte field serve for indicating null values in the result set of the query. For this purpose, condensed indicator structures can be declared with the addition AS BITFIELD of the TYPES statement.
+
+## New Cardinality
+A new syntax for specifying the cardinality of joins is available:
+
+```ABAP
+{MANY | ONE | {EXACT ONE}} TO {MANY | ONE | {EXACT ONE}}
+```
+
+The new cardinality syntax can be used to improve query performance. It can also be used in SQL path expressions and CTE associations.
+
+## PRIVILEGED ACCESS
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_privileged_access.htm)
+
+With the new addition `PRIVILEGED ACCESS`, CDS access control can be disabled for a complete SELECT statement.
+
 ## Multiple tables FROM @itab
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm)
 
