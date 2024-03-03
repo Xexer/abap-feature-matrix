@@ -4,65 +4,65 @@
     "Content": [
         {
             "Text": "Pooled, Cluster Tables",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#pooled-cluster-tables",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-753-ddic.htm#!ABAP_MODIFICATION_2@2@",
             "Release": {
                 "7402": "x",
                 "1809": "o"
             }
         },
         {
-            "Text": "INT8 (Built-In)",
-            "GitLink": "",
-            "Help": "",
+            "Text": "INT8",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#int8",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbuiltin_types_numeric.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "DECFLOAT16",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#decfloat16",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_builtin_types.htm#@@ITOC@@ABENDDIC_BUILTIN_TYPES_1",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "DECFLOAT34",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#decfloat34",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_builtin_types.htm#@@ITOC@@ABENDDIC_BUILTIN_TYPES_1",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "DATN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#datn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_date_time_types.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "TIMN",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#timn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_date_time_types.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "UTCLONG",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#utclong",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbuiltin_types_date_time.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "GEOM_EWKB",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#geom_ewkb",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_geo_data.htm",
             "Release": {
                 "1909": "x"
             }
@@ -78,24 +78,24 @@
         },
         {
             "Text": "DEFINE DYNAMIC CACHE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#define-dynamic-cache",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddicddl_define_dynamic_cache.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "INDICATOR Structures",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#indicator-structures",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaptypes_indicators.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "AS BITFIELD",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#as-bitfield",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaptypes_indicators.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2021": "x"
             }
