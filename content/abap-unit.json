@@ -4,15 +4,15 @@
     "Content": [
         {
             "Text": "PARTIALLY IMPLEMENTED",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#partially-implemented",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapinterfaces_partially.htm",
             "Release": {
                 "7402": "x"
             }
         },
         {
             "Text": "Class Double (Interface)",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#class-double-interface",
             "Help": "",
             "Release": {
                 "7410": "x"
@@ -28,15 +28,15 @@
         },
         {
             "Text": "TEST-SEAM",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#test-seam",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentest_seams.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "SQL Double",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#sql-double",
             "Help": "",
             "Release": {
                 "1709": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "CDS Double",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#cds-double",
             "Help": "",
             "Release": {
                 "1610": "x"
@@ -52,23 +52,23 @@
         },
         {
             "Text": "\"! @testing",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#-testing",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentest_relations.htm",
             "Release": {
                 "1709": "x"
             }
         },
         {
             "Text": "CL_OSQL_REPLACE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#cl_osql_replace",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_osql_replace.htm",
             "Release": {
                 "1709": "x"
             }
         },
         {
             "Text": "Function Double",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#function-double",
             "Help": "",
             "Release": {
                 "2021": "x"
