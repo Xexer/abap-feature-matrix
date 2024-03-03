@@ -12,80 +12,88 @@
         },
         {
             "Text": "IF_AMDP_MARKER_HDB",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#if_amdp_marker_hdb",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenamdp_classes.htm",
             "Release": {
                 "7405": "x"
             }
         },
         {
             "Text": "BY DATABASE PROCEDURE FOR HDB LANGUAGE SQLSCRIPT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#by-database-procedure-for-hdb-language-sqlscript",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethod_by_db_proc.htm",
             "Release": {
                 "7405": "x"
             }
         },
         {
             "Text": "AMDP BAdIs",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#amdp-badis",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenamdp_badis.htm",
             "Release": {
                 "7408": "x"
             }
         },
         {
+            "Text": " BY DATABASE FUNCTION",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#by-database-function",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethod_by_db_proc.htm",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
             "Text": "FOR TABLE FUNCTION",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#for-table-function",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapclass-methods_for_tabfunc.htm",
             "Release": {
                 "1511": "x"
             }
         },
         {
             "Text": "Logical Database Schemas",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#logical-database-schemas",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenlogical_database_schemas.htm",
             "Release": {
                 "1610": "x"
             }
         },
         {
             "Text": "Reference to ABAP Types",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#reference-to-abap-types",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenamdp_abap_types.htm",
             "Release": {
                 "1709": "x"
             }
         },
         {
             "Text": "AMDP OPTIONS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#amdp-options",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethods_amdp_options.htm",
             "Release": {
                 "1709": "x"
             }
         },
         {
             "Text": "Logical HDI Containers",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#logical-hdi-containers",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenlogical_database_schemas.htm#@@ITOC@@ABENLOGICAL_DATABASE_SCHEMAS_4",
             "Release": {
                 "1709": "x"
             }
         },
         {
             "Text": "AMDP Scalar Functions",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#amdp-scalar-functions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenamdp_function_methods.htm#@@ITOC@@ABENAMDP_FUNCTION_METHODS_5",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "Specifying CDS Entities After USING",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/amdp.md#specifying-cds-entities-after-using",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapmethod_by_db_proc.htm#!ABAP_ADDITION_4@4@",
             "Release": {
                 "1909": "x"
             }
