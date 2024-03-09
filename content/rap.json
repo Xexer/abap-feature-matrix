@@ -4,512 +4,544 @@
     "Content": [
         {
             "Text": "Service Definition",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#service-definition",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_service_definitions.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "Service Binding",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#service-binding",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_service_bindings.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "Behavior Definitions",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#behavior-definitions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "ABAP Behavior Pools",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#abap-behavior-pools",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_behavior_pools.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "ABAP EML",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#abap-eml",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abeneml.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "BDEF Derived Types",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#bdef-derived-types",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenrpm_derived_types.htm",
             "Release": {
                 "1809": "x"
             }
         },
         {
             "Text": "Unmanaged Scenario",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#unmanaged-scenario",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_impl_type.htm",
             "Release": {
                 "1909": "x"
             }
         },
         {
             "Text": "Managed Scenario",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#managed-scenario",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_impl_type.htm",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Business Object Projection",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#business-object-projection",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_impl_type.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "Validation",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#validation",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_validations.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "Determination",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#determination",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_determinations.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "MAPPING FOR",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#mapping-for",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_type_mapping.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "WITH ADDITIONAL SAVE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-additional-save",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_saving.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "WITH UNMANAGED SAVE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-unmanaged-save",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_saving.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "NUMBERING:MANAGED",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#numberingmanaged",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_numbering.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "New Options for Output Parameters",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#new-options-for-output-parameters",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_output_para.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
-            "Text": " LOCK MASTER UNMANAGED",
-            "GitLink": "",
-            "Help": "",
+            "Text": "SELECTIVE",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#selective",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_output_para.htm#!ABAP_ADDITION_2@2@",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "LOCK MASTER UNMANAGED",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#lock-master-unmanaged",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_locking.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "WITH DRAFT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-draft",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_with_draft.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "DETERMINE ACTION",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#determine-action",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_determine_action.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "PRECHECK",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#precheck",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_precheck.htm",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "MANDATORY:CREATE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#mandatorycreate",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "READONLY:UPDATE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#readonlyupdate",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "2020": "x"
             }
         },
         {
             "Text": "Augmentation",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#augmentation",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_augment_projection.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "STRICT mode",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#strict-mode",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_strict_1.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "Nested Determinations on Modify",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#nested-determinations-on-modify",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_determinations.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "AUTHORIZATION:UPDATE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#authorizationupdate",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_actions_auth_update.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "ALWAYS",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#always",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_determine_action.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "FEATURES:GLOBAL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#featuresglobal",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_actions_fc.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "AUTHORIZATION MASTER (GLOBAL)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#authorization-master-global",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_authorization.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "LOCK:NONE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#locknone",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "EARLY NUMBERING",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#early-numbering",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_early_numb.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "AND CLEANUP",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#and-cleanup",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_saving.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "Define Authorization Context",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#define-authorization-context",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_authorization_context.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "Actions and Functions in Projection",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#actions-and-functions-in-projection",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_nonstandard_projection.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "FIELD(SUPPRESS)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#fieldsuppress",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_projection.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "Abstract Behavior Definitions",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#abstract-behavior-definitions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_abstract.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "WITH CONTROL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-control",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_define_beh_abstract.htm",
             "Release": {
                 "2021": "x"
             }
         },
         {
             "Text": "Business Events",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#business-events",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_event.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Late Numbering",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#late-numbering",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_late_numbering.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "WITH PRIVILEGED MODE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-privileged-mode",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_privileged_mode.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Interface Behavior Definitions",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#interface-behavior-definitions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_rap_bo_interface.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
-            "Text": "FIELD(SUPPRESS)",
-            "GitLink": "",
-            "Help": "",
+            "Text": "FIELD(SUPPRESS) Managed",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#fieldsuppress-managed",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "FIELD(SUPPRESS) Unmanaged",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#fieldsuppress-managed",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "WITH FULL DATA",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-full-data",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_saving.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Extensions for RAP",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#extensions-for-rap",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_extensibility_managed_unm.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Extensions for RAP Projection",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#extensions-for-rap-projection",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_extensibility_projection.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "STRICT(2)",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#strict2",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_strict_2.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "QUERY",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#query",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_draft_query_view.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "MANDATORY:EXECUTE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#mandatoryexecute",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_abstract.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "RESULT SELECTIVE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#result-selective",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_output_para.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Save Actions with Phase Specification",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#save-actions-with-phase-specification",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_onsave.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "REPEATABLE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#repeatable",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_repeatable.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "EXTEND SERVICE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#extend-service",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensrvd_extend_service.htm",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "PROVIDER CONTRACTS",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#provider-contracts",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensrvd_provider_contract.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "RAISE ENTITY EVENT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#raise-entity-event",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_event.htm",
             "Release": {
                 "2022": "x"
             }
         },
         {
             "Text": "Side Effects",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#side-effects",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_side_effects.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "Locale Events",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#locale-events",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_use_projection.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "NOTRIGGER[:WARN]",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#notriggerwarn",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "Static Default Factory Actions",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#static-default-factory-actions",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_action_default_factory.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "OPTIMIZED",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#optimized",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_draft_action.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "AUTHORIZATION:GLOBAL",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#authorizationglobal",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_actions_auth_global.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "AUTHORIZATION:INSTANCE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#authorizationinstance",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_actions_auth_instance.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "WITH MANAGED INSTANCE FILTER",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#with-managed-instance-filter",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_mngd_instance_check_proj.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "EXTENSION FOR ABSTRACT",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#extension-for-abstract",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_extension_for_abstract.htm",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "DRAFT ACTION ADDITIONALSAVE",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#draft-action-additionalsave",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_draft_action.htm#!ABAP_ADDITION_1@1@",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "BOPF-Based RAP BO Migration",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#bopf-based-rap-bo-migration",
+            "Help": "https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0a54d0c8a2be4136a8b5d41a367dd537/40535a6f276149bfb1fd03baadd5ba92.html",
             "Release": {
                 "2023": "x"
             }
         },
         {
             "Text": "CL_ABAP_TX",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/rap.md#cl_abap_tx",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_tx.htm",
             "Release": {
                 "2023": "x"
             }

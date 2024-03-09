@@ -12,3 +12,5 @@ The following documented ABAP program is now available for migrating CDS DDIC-ba
 
 ## RUT_WHERE_USE_SQLVIEW
 [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/a-new-generation-of-cds-views-how-to-migrate-your-cds-views-to-cds-view/ba-p/13508307)
+
+Using CDS-managed DDIC views has been declared obsolete. The following ABAP program lists all repository objects that use CDS-managed DDIC views
