@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "RUTDDLS_MIGRATION_CANDIDATES",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rutddls_migration_candidates",
             "Help": "",
             "Release": {
                 "2021": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "RUTDDLSV2MIGRATION",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rutddlsv2migration",
             "Help": "",
             "Release": {
                 "2021": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "RUT_WHERE_USE_SQLVIEW",
-            "GitLink": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rut_where_use_sqlview",
             "Help": "",
             "Release": {
                 "2022": "x"

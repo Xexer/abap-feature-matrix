@@ -4,8 +4,8 @@
     "Content": [
         {
             "Text": "IF_T100_DYN_MSG",
-            "GitLink": "",
-            "Help": "",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-interfaces.md#if_t100_dyn_msg",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenif_t100_dyn_msg.htm",
             "Release": {
                 "1511": "x"
             }
