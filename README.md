@@ -14,3 +14,4 @@ We use the following sources to determine the data for the individual lists.
 - [ABAP Release News](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews.htm)
 - [CDS Feature Matrix](https://community.sap.com/t5/application-development-blog-posts/feature-matrix-data-modeling-with-abap-core-data-services/ba-p/13543592)
 - [RAP - What's New](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/40bb1ba88c1e4139896fd7550c76654f.html?locale=en-US)
+- [ADT Feature Availability Matrix](https://community.sap.com/t5/technology-blogs-by-sap/adt-feature-availability-matrix-for-as-abap-releases/bc-p/13027500/highlight/true)

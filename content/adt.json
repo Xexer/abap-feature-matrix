@@ -1,0 +1,557 @@
+{
+    "Name": "ABAP Development Tools (ADT)",
+    "Description": "",
+    "Content": [
+        {
+            "Text": "Debugger",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debugger",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/4ec33a996e391014adc9fffe4e204223.html?locale=en-US",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "ABAP Test Cockpit",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-test-cockpit",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/abap-test-cockpit-atc-for-developers-in-eclipse/ba-p/13113248",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Profiler",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#profiler",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/abap-profiling-in-eclipse/ba-p/13228757",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Webdynpro ABAP Tools",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#webdynpro-abap-tools",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/developing-web-dynpro-abap-applications-using-abap-development-tools-for/ba-p/13226750",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "FPM Integration",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#fpm-integration",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/develop-uis-using-floor-plan-manager-using-abap-development-tools-for/ba-p/13226737",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "ABAP for HANA Tools",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-for-hana-tools",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-7-and-find-out-what-s-new/ba-p/13228193",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Basic Refactorings",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#basic-refactorings",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-7-and-find-out-what-s-new/ba-p/13228193",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Support for ABAP Doc",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#support-for-abap-doc",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/abap-doc/ba-p/13223459",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Connectivity & Integration Tools",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#connectivity--integration-tools",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/connectivity-and-integration-with-abap-development-tools-for-sap-netweaver/ba-p/13021172",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Core Data Services Tools",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#core-data-services-tools",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Transport Organizer View",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#transport-organizer-view",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/adt-basics-transport-organizer/ba-p/12967242",
+            "Release": {
+                "7402": "x"
+            }
+        },
+        {
+            "Text": "Data Preview",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#data-preview",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Debugger - Watchpoints",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debugger---watchpoints",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Enhanced Refactoring Features",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#enhanced-refactoring-features",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "ABAP managed Database Procedures",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-managed-database-procedures",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "Display of Sourcecode Enhancements",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#display-of-sourcecode-enhancements",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394",
+            "Release": {
+                "7405": "x"
+            }
+        },
+        {
+            "Text": "SQL Console",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#sql-console",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/adt-2-31-new-version-of-abap-development-tools-available-now/ba-p/13093933",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "Text Element Support",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#text-element-support",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/adt-2-31-new-version-of-abap-development-tools-available-now/ba-p/13093933",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
+            "Text": "DDIC Structure Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#ddic-structure-editor",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/new-dictionary-structure-editor/ba-p/13174866",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "DDIC Data Element Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#ddic-data-element-editor",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/editing-data-elements-in-a-form-based-way/ba-p/13194455",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Debugger - Conditional Breakpoints",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debugger---conditional-breakpoints",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/conditional-breakpoints/ba-p/13199015",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Dynamic Logpoints",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#dynamic-logpoints",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/dynamic-logpoints-in-abap/ba-p/13169617",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Quickfixes for Exception Handling",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#quickfixes-for-exception-handling",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/out-now-adt-version-2-51-for-the-brand-new-as-abap-7-50/ba-p/13188812",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Creation of Getter/Setter Methods",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#creation-of-gettersetter-methods",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/out-now-adt-version-2-51-for-the-brand-new-as-abap-7-50/ba-p/13188812",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Export ABAP Doc",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#export-abap-doc",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/new-abap-doc-features-with-netweaver-7-5/ba-p/13194171",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Editor for Transformations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#editor-for-transformations",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/editing-source-based-transformations-for-xml/ba-p/13194495",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "SQL Monitor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#sql-monitor",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/3-simple-steps-to-identify-performance-hotspots-in-abap-custom-code/ba-p/13173066",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "Debugger for database procedures",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debugger-for-database-procedures",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/79eae83dbf594660bd91cefdd55f7791.html?locale=en-US",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "BOPF Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#bopf-editor",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/bopf-modelling-in-eclipse/ba-p/13059046",
+            "Release": {
+                "1511": "x"
+            }
+        },
+        {
+            "Text": "CDS Metadata Extensions",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#cds-metadata-extensions",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "APC Editor (Push Channels)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#apc-editor-push-channels",
+            "Help": "",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "ABAP repository trees (HANA DB only)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-repository-trees-hana-db-only",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/displaying-only-the-relevant-objects-in-the-project-explorer/ba-p/13278164",
+            "Release": {
+                "1610": "x"
+            }
+        },{
+            "Text": "DDIC Domain Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#ddic-domain-editor",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/working-now-with-form-based-domains-in-adt/ba-p/13321776",
+            "Release": {
+                "1610": "x"
+            }
+        },
+        {
+            "Text": "Database Table Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#database-table-editor",
+            "Help": "",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "ABAP Package Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-package-editor",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/752c353e047847e0a7b441ba181c7cec.html?locale=en-US",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Debug Dynpro Flow",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debug-dynpro-flow",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/9bf2e843538e4814933a44bd96a6cf38.html?locale=en-US",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Debug Enhancements",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#debug-enhancements",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/5e359cd5d93e4e159a34046c614bbc34.html?locale=en-US",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Internal table analysis",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#internal-table-analysis",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/4ec744606e391014adc9fffe4e204223.html?locale=en-US",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Run ABAP Program on console",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#run-abap-program-on-console",
+            "Help": "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/74c5630e5c014499bc210b07d14b2ff2.html?locale=en-US",
+            "Release": {
+                "1709": "x"
+            }
+        },
+        {
+            "Text": "Quick fixes in ATC",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#quick-fixes-in-atc",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "RAP Tooling",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#rap-tooling",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Enhancement Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#enhancement-editor",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Lock Object Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#lock-object-editor",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Transport Request Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#transport-request-editor",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Modification Support",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#modification-support",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "ABAP Unit Test Relations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-unit-test-relations",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Runtime Error Analysis",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#runtime-error-analysis",
+            "Help": "",
+            "Release": {
+                "1809": "x"
+            }
+        },
+        {
+            "Text": "Relation Explorer",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#relation-explorer",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "AMDP Debugger",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#amdp-debugger",
+            "Help": "",
+            "Release": {
+                "1909": "x"
+            }
+        },
+        {
+            "Text": "CDS View Entities",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#cds-view-entities",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "BADI Editor (Def.+Impl.)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#badi-editor-defimpl",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Number Ranges",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#number-ranges",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Knowledge Transfer Documents",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#knowledge-transfer-documents",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Favorite Objects",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#favorite-objects",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
+            "Text": "Text Element Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#text-element-editor",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Application Log Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#application-log-editor",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Inactive Objects as Repo Tree",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#inactive-objects-as-repo-tree",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "ATC check variant editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#atc-check-variant-editor",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "RFC service consumption model Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#rfc-service-consumption-model-editor",
+            "Help": "",
+            "Release": {
+                "2021": "x"
+            }
+        },
+        {
+            "Text": "Event Consumption Model Wizard",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#event-consumption-model-wizard",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "ABAP Daemon Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#abap-daemon-editor",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "New ATC check framework",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#new-atc-check-framework",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Editor for ATC variants and checks",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#editor-for-atc-variants-and-checks",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Number range Editor",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#number-range-editor",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "RAP Generator",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#rap-generator",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Support for ABAP Cloud development",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#support-for-abap-cloud-development",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Message Breakpoints in Debugger",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#message-breakpoints-in-debugger",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Create VALUE statement in Debugger",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#create-value-statement-in-debugger",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "Object Set Playground",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#object-set-playground",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        }
+    ]
+}
