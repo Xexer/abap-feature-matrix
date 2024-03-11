@@ -26,13 +26,19 @@ The new methods CREATE_USING and `EXECUTE_USING` for making assignments between 
 The system class CL_ABAP_CORRESPONDING now has a new method `CREATE_WITH_VALUE`, which allows the values of any suitable data objects to be assigned to the components of the target structure or target table.
 
 ## CL_DBI_UTILITIES
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_database_tables_protocol.htm)
+
 The new system class `CL_DBI_UTILITIES` contains utility methods for the database interface. The documented method `IS_LOGGING_ON` can be used to verify whether logging is currently switched on for a database table.
 
 ## CL_DYNAMIC_DESTINATION
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenrfc_destination.htm#@@ITOC@@ABENRFC_DESTINATION_2)
+
 The methods of the class `CL_DYNAMIC_DESTINATION` are used to manage dynamic RFC destinations in ABAP release 7.50 and higher. In particular, the method `CREATE_RFC_DESTINATION` makes it possible to create a dynamic destination, which can be used in the current sessions for RFCs.
 
 ## CL_ABAP_PARALLEL
-The class has only been available in the system since release 7.54, but there is a downport up to 7.50, which can be imported via [2791374](https://me.sap.com/notes/2791374).
+[SAP Help](https://community.sap.com/t5/application-development-blog-posts/using-class-cl-abap-parallel-for-mass-parallel-dialog-work-processes/ba-p/13579844)
+
+Using class CL_ABAP_PARALLEL is a convenient way to mass process in parallel dialog work processes.  This can be especially powerful in a system with more dialog vs other types of work processes. The class has only been available in the system since release 7.54, but there is a downport up to 7.50, which can be imported via [2791374](https://me.sap.com/notes/2791374).
 
 ## CL_ABAP_ITAB_UTILITIES
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenvirtual_sort_abexas.htm)
@@ -40,6 +46,8 @@ The class has only been available in the system since release 7.54, but there is
 The new method `VIRTUAL_SORT` of class CL_ABAP_ITAB_UTILITIES enables virtual sorting of a set of internal tables with the same number of rows. The internal tables are handled internally like a single combined table containing all the columns of the involved internal tables. The result is an array of row numbers of the virtually sorted combined table.
 
 ## CL_ABAP_BEHV_AUX
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm)
+
 The new system class `CL_ABAP_BEHV_AUX` is available for retrieving RAP runtime context information. Using the `GET_CURRENT_HANDLER_KIND` method, you get the information about which RAP handler method is currently running.
 
 ### GET_CURRENT_CONTEXT
@@ -49,6 +57,8 @@ The system class CL_ABAP_BEHV_AUX has a new method available: RAP runtime contex
 Using the new method GET_CURRENT_PHASE, you get information about the current RAP transactional phase.
 
 ## CL_MESSAGE_HELPER
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenif_t100_message.htm)
+
 The new method `GET_LATEST_T100_EXCEPTION` in the class CL_MESSAGE_HELPER is used to return the last object in a chain of exception objects that has an exception text defined by a message. Here, the chain is created using the attribute PREVIOUS.
 
 ## CX_SY_STRING_SIZE_TOO_LARGE

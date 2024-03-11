@@ -45,7 +45,7 @@
         {
             "Text": "CL_DBI_UTILITIES",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_dbi_utilities",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_database_tables_protocol.htm",
             "Release": {
                 "1511": "x"
             }
@@ -53,15 +53,15 @@
         {
             "Text": "CL_DYNAMIC_DESTINATION",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_dynamic_destination",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenrfc_destination.htm#@@ITOC@@ABENRFC_DESTINATION_2",
             "Release": {
                 "1511": "x"
             }
         },
         {
-            "Text": "CL_ABAP_PARALLEL (*)",
+            "Text": "CL_ABAP_PARALLEL",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_parallel",
-            "Help": "",
+            "Help": "https://community.sap.com/t5/application-development-blog-posts/using-class-cl-abap-parallel-for-mass-parallel-dialog-work-processes/ba-p/13579844",
             "Release": {
                 "1511": "d",
                 "1909": "x"
@@ -78,7 +78,7 @@
         {
             "Text": "CL_ABAP_BEHV_AUX",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_behv_aux",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "1809": "x"
             }
@@ -86,7 +86,7 @@
         {
             "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_CONTEXT)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#get_current_context",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "2021": "x"
             }
@@ -94,7 +94,7 @@
         {
             "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_PHASE)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#get_current_phase",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "2023": "x"
             }
@@ -102,7 +102,7 @@
         {
             "Text": "CL_MESSAGE_HELPER (GET_LATEST_T100_EXCEPTION)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_message_helper",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenif_t100_message.htm",
             "Release": {
                 "1809": "x"
             }
