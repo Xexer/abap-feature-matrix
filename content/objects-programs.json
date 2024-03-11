@@ -5,7 +5,7 @@
         {
             "Text": "RUTDDLS_MIGRATION_CANDIDATES",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rutddls_migration_candidates",
-            "Help": "",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/a-new-generation-of-cds-views-how-to-migrate-your-cds-views-to-cds-view/ba-p/13508307",
             "Release": {
                 "2021": "x"
             }
@@ -13,7 +13,7 @@
         {
             "Text": "RUTDDLSV2MIGRATION",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rutddlsv2migration",
-            "Help": "",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/a-new-generation-of-cds-views-how-to-migrate-your-cds-views-to-cds-view/ba-p/13508307",
             "Release": {
                 "2021": "x"
             }
@@ -21,7 +21,7 @@
         {
             "Text": "RUT_WHERE_USE_SQLVIEW",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rut_where_use_sqlview",
-            "Help": "",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/a-new-generation-of-cds-views-how-to-migrate-your-cds-views-to-cds-view/ba-p/13508307",
             "Release": {
                 "1709": "d",
                 "2022": "x"
