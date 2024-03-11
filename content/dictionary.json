@@ -70,7 +70,7 @@
         {
             "Text": "Flagging of Deprecated Data",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/dictionary.md#flagging-of-deprecated-data",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_deprecation.htm",
             "Release": {
                 "7402": "d",
                 "1909": "x"
