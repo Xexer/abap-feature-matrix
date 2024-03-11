@@ -23,6 +23,7 @@
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-programs.md#rut_where_use_sqlview",
             "Help": "",
             "Release": {
+                "1709": "d",
                 "2022": "x"
             }
         }
