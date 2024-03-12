@@ -142,7 +142,7 @@
         {
             "Text": "Typed Literal",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#typed-literal",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_typed_literal_v2.htm",
             "Release": {
                 "2021": "x"
             }
@@ -150,7 +150,7 @@
         {
             "Text": "EXTEND ABSTRACT ENTITY",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#extend-abstract-entity",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_abstract_entity.htm",
             "Release": {
                 "2021": "x"
             }
@@ -158,7 +158,7 @@
         {
             "Text": "REDEFINE ASSOCIATION",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#redefine-association",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_proj_view_redefined_assoc.htm",
             "Release": {
                 "2021": "x"
             }
@@ -166,7 +166,7 @@
         {
             "Text": "PROVIDER CONTRACT",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#provider-contract",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm",
             "Release": {
                 "2021": "x"
             }
@@ -174,7 +174,7 @@
         {
             "Text": "ANALYTICAL_QUERY",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#analytical_query",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm#!ABAP_ADDITION_3@3@",
             "Release": {
                 "2022": "x"
             }
@@ -182,7 +182,7 @@
         {
             "Text": "TRANSACTIONAL_INTERFACE",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#transactional_interface",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2022": "x"
             }
@@ -190,7 +190,7 @@
         {
             "Text": "EXTEND CUSTOM ENTITY",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#extend-custom-entity",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_custom_entity.htm",
             "Release": {
                 "2022": "x"
             }
@@ -198,7 +198,7 @@
         {
             "Text": "Simple Type",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#simple-type",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_simple_type.htm",
             "Release": {
                 "2023": "x"
             }
@@ -206,7 +206,7 @@
         {
             "Text": "Enumeration",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#enumeration",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_enum_type.htm",
             "Release": {
                 "2023": "x"
             }
@@ -214,7 +214,7 @@
         {
             "Text": "Scalar Functions",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#scalar-functions",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_scalar_function.htm",
             "Release": {
                 "2023": "x"
             }
@@ -222,7 +222,7 @@
         {
             "Text": "New Cardinality Syntax",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#new-cardinality-syntax",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-758-abap_cds.htm#!ABAP_MODIFICATION_7@7@",
             "Release": {
                 "2023": "x"
             }

@@ -86,34 +86,62 @@ The new addition `ROOT` is available for CDS entities to mark an entity as a CDS
 The new statement `EXTEND VIEW ENTITY` of the DDL of ABAP CDS makes it possible to add new view fields to existing CDS views entities and CDS projection views by using CDS view entity extensions.
 
 ## Typed Literal
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_typed_literal_v2.htm)
+
+`Typed literals` are now available for CDS view entities. Typed literals allow an explicit type declaration and they are available for many built-in ABAP Dictionary data types.
 
 ## EXTEND ABSTRACT ENTITY
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_abstract_entity.htm)
+
+The new statement EXTEND ABSTRACT ENTITY of the DDL of ABAP CDS makes it possible to add new elements to existing CDS abstract entities by using CDS abstract entity extensions.
 
 ## REDEFINE ASSOCIATION
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_proj_view_redefined_assoc.htm)
+
+In CDS projection views, it is now possible to redefine the CDS associations from the projected entity in the header part. This is done using the keyword `REDEFINE ASSOCIATION`. Redefinition can include a new filter, alias name, and redirection to a new association target, which must also be a CDS projection view, thus moving the complete data model to the projection layer.
 
 ## PROVIDER CONTRACT
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm)
+
+It is now possible to specify a provider contract for CDS projection views using the keyword `PROVIDER CONTRACT`. The provider contract specifies in which scenario a CDS projection view is used, and the scenario in turn determines in which runtime the view is executed and which features are available. Actual only: `TRANSACTIONAL_QUERY`
 
 ## ANALYTICAL_QUERY
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm#!ABAP_ADDITION_3@3@)
+
+CDS analytical projection views for modelling analytical queries are available. A CDS analytical projection view is defined using DEFINE TRANSIENT VIEW ENTITY AS PROJECTION ON. The value for the provider contract must be set to ANALYTICAL_QUERY.
 
 ## TRANSACTIONAL_INTERFACE
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_pv_provider_contract.htm#!ABAP_ADDITION_2@2@)
+
+A new type of CDS projection view is available: the CDS transactional interface. CDS transactional interfaces serve as stable public interface layer in a CDS data model. They are typically used in the context of the ABAP RESTful Application Programming Model to provide the basis for a RAP BO interface. A CDS transactional interface view is defined using DEFINE VIEW ENTITY AS PROJECTION ON. The value for the provider contract must be set to `TRANSACTIONAL_INTERFACE`.
 
 ## EXTEND CUSTOM ENTITY
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_custom_entity.htm)
+
+The new statement `EXTEND CUSTOM ENTITY` of the DDL of ABAP CDS makes it possible to add new elements to existing CDS custom entities by using CDS custom entity extensions.
 
 ## Simple Type
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_simple_type.htm)
+
+CDS simple types define elementary data types natively in ABAP CDS. A CDS simple type can be enriched with metadata using CDS annotations. The syntax statement for defining a CDS simple type is `DEFINE TYPE`.
 
 ## Enumeration
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_enum_type.htm)
+
+CDS enumerated types define enumerated types natively in ABAP CDS. The syntax statement for defining a CDS enumerated type is `DEFINE TYPE ENUM`.
 
 ## Scalar Functions
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_scalar_function.htm)
+
+The new CDS entity is available: the CDS scalar function. It is defined using the CDS DDL statement `DEFINE SCALAR FUNCTION`. A CDS scalar function is linked with an AMDP function in which it is implemented using SQLScript.
 
 ## New Cardinality Syntax
-[SAP Help]()
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-758-abap_cds.htm#!ABAP_MODIFICATION_7@7@)
+
+A new syntax for specifying the cardinality of CDS associations, CDS joins, and of filter conditions of CDS path expressions is now available:
+
+```ABAP
+{MANY | ONE | EXACT ONE} TO {MANY | ONE | EXACT ONE}
+```
+
+This syntax allows a source and a target cardinality to be specified, while the previously available numeric syntax only allowed the target cardinality to be specified. The new cardinality syntax can be used to improve query performance. It is available in CDS view entities, CDS projection views, CDS custom entities, and CDS abstract entities.
