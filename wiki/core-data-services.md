@@ -136,7 +136,7 @@ CDS enumerated types define enumerated types natively in ABAP CDS. The syntax st
 The new CDS entity is available: the CDS scalar function. It is defined using the CDS DDL statement `DEFINE SCALAR FUNCTION`. A CDS scalar function is linked with an AMDP function in which it is implemented using SQLScript.
 
 ## New Cardinality Syntax
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-758-abap_cds.htm#!ABAP_MODIFICATION_7@7@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_cardinality_v2.htm#!ABAP_ALTERNATIVE_1@1@)
 
 A new syntax for specifying the cardinality of CDS associations, CDS joins, and of filter conditions of CDS path expressions is now available:
 

@@ -222,7 +222,7 @@
         {
             "Text": "New Cardinality Syntax",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#new-cardinality-syntax",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-758-abap_cds.htm#!ABAP_MODIFICATION_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_cardinality_v2.htm#!ABAP_ALTERNATIVE_1@1@",
             "Release": {
                 "2023": "x"
             }
