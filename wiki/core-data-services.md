@@ -10,6 +10,11 @@ The new ABAP CDS is the ABAP-specific implementation of the general Core Data Se
 
 A new kind of CDS view is available: the `CDS view entity`. CDS view entities represent an improved version of CDS DDIC-based views (obsolete) (DEFINE VIEW). They serve the same purpose and have the same structure as CDS DDIC-based views (obsolete), but offer many advantages.
 
+## EXTEND VIEW
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_view.htm)
+
+The new statement `EXTEND VIEW` of the DDL of the ABAP CDS makes it possible to add new view fields to existing CDS views - without making changes - by using CDS DDIC-based view extensions.
+
 ## Association
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_simple_association_v1.htm)
 
@@ -34,6 +39,11 @@ The new DDL statement `DEFINE TABLE FUNCTION` can be used to define CDS table fu
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_session_variable_v1.htm)
 
 When a CDS view is accessed using ABAP SQL, three session variables (`$session.user`, `$session.client`, and `$session.system_language`) can be accessed here. In these variables, the values of the system fields sy-uname, sy-mandt and sy-langu are available.
+
+## Session (SYSTEM_DATE)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_session_variable_v1.htm)
+
+When a CDS view is accessed using ABAP SQL, it is possible to access the new session variable `$session.system_date` in which the values of the system field sy-datum are available.
 
 ## Session (USER_TIMEZONE)
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_session_variable_v1.htm)

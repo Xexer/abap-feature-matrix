@@ -12,6 +12,14 @@
             }
         },
         {
+            "Text": "EXTEND VIEW",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#extend-view",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_extend_view.htm",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
             "Text": "Define View Entity",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#define-view-entity",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_define_view_entity.htm",
@@ -57,6 +65,14 @@
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_session_variable_v1.htm",
             "Release": {
                 "1511": "x"
+            }
+        },
+        {
+            "Text": "Session (SYSTEM_DATE)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#session-system_date",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_session_variable_v1.htm",
+            "Release": {
+                "1610": "x"
             }
         },
         {
