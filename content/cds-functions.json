@@ -421,7 +421,7 @@
         {
             "Text": "TIMS_TO_TIMN",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tims_to_timn",
-            "Help": "",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "1909": "x"
             }
