@@ -68,6 +68,15 @@
             }
         },
         {
+            "Text": "CL_ABAP_CONTEXT_INFO",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_context_info",
+            "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/b5670aaaa2364a29935f40b16499972d/252df8501f224b668e9d2b00ffd7b5e9.html?locale=en-US",
+            "Release": {
+                "1610": "",
+                "1909": "x"
+            }
+        },
+        {
             "Text": "CL_ABAP_ITAB_UTILITIES (VIRTUAL_SORT)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_itab_utilities",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenvirtual_sort_abexas.htm",

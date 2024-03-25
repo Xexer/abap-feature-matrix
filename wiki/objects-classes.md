@@ -38,7 +38,12 @@ The methods of the class `CL_DYNAMIC_DESTINATION` are used to manage dynamic RFC
 ## CL_ABAP_PARALLEL
 [SAP Help](https://community.sap.com/t5/application-development-blog-posts/using-class-cl-abap-parallel-for-mass-parallel-dialog-work-processes/ba-p/13579844)
 
-Using class CL_ABAP_PARALLEL is a convenient way to mass process in parallel dialog work processes.  This can be especially powerful in a system with more dialog vs other types of work processes. The class has only been available in the system since release 7.54, but there is a downport up to 7.50, which can be imported via [2791374](https://me.sap.com/notes/2791374).
+Using class `CL_ABAP_PARALLEL` is a convenient way to mass process in parallel dialog work processes.  This can be especially powerful in a system with more dialog vs other types of work processes. The class has only been available in the system since release 7.54, but there is a downport up to 7.50, which can be imported via [2791374](https://me.sap.com/notes/2791374).
+
+## CL_ABAP_CONTEXT_INFO
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/b5670aaaa2364a29935f40b16499972d/252df8501f224b668e9d2b00ffd7b5e9.html?locale=en-US)
+
+You can use class `CL_ABAP_CONTEXT_INFO` to retrieve information about the user session, for example, technical user name, business user name, time zone, and so on.
 
 ## CL_ABAP_ITAB_UTILITIES
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenvirtual_sort_abexas.htm)
