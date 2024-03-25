@@ -44,11 +44,11 @@ The system class `CL_OSQL_REPLACE` implements a replacement service that can be 
 
 Creates a double of a function module with the class `CL_FUNCTION_TEST_ENVIRONMENT`.
 
+## Authority Check Helper
+Use the class `CL_AUNIT_AUTHORITY_CHECK` to change your authorities during Unit Test runtime. You can set specific authorization, that you want to test with your AUTHORITY CHECK.
+
 ## Transactional Buffer Double
 Creates a double for the transactional buffer of a RAP object. Use the class `CL_BOTD_TXBUFDBL_BO_TEST_ENV` with the methods PREPARE_ENVIRONMENT_CONFIG and CREATE to initialize the double.
 
 ## Mock EML API
 Creates a double for the EML statement to access or modify a RAP object. Use the class `CL_BOTD_MOCKEMLAPI_BO_TEST_ENV` with the methods PREPARE_ENVIRONMENT_CONFIG and CREATE to initialize the double. Before use, you have to configure the call, like the class double.
-
-## Authority Check Helper
-Use the class `CL_AUNIT_AUTHORITY_CHECK` to change your authorities during Unit Test runtime. You can set specific authorization, that you want to test with your AUTHORITY CHECK.

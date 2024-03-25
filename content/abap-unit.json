@@ -75,11 +75,20 @@
             }
         },
         {
+            "Text": "Authority Check Helper",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#authority-check-helper",
+            "Help": "",
+            "Release": {
+                "2020": "",
+                "2021": "x"
+            }
+        },
+        {
             "Text": "Transactional Buffer Double",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#transactional-buffer-double",
             "Help": "",
             "Release": {
-                "1809": ""
+                "2022": "x"
             }
         },
         {
@@ -87,15 +96,7 @@
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#mock-eml-api",
             "Help": "",
             "Release": {
-                "1809": ""
-            }
-        },
-        {
-            "Text": "Authority Check Helper",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#authority-check-helper",
-            "Help": "",
-            "Release": {
-                "1809": ""
+                "2022": "x"
             }
         }
     ]
