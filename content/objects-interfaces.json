@@ -9,6 +9,14 @@
             "Release": {
                 "1511": "x"
             }
+        },
+        {
+            "Text": "IF_CI_ATC_CHECK",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-interfaces.md#if_ci_atc_check",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/how-to-create-your-own-atc-check-in-abap-development-tools-for-eclipse/ba-p/13512220",
+            "Release": {
+                "2022": "x"
+            }
         }
     ]
 }
