@@ -116,6 +116,10 @@ The new predefined RFC destination SELF works as NONE but uses the RFC protocol 
 ## Software Components (ABAP Cloud)
 Software components can be created for different language versions in order to define pure TIER-1 packages in which development can be carried out according to the rules of “ABAP for Cloud”.
 
-
 ## T1 Fiori Deployment (ABAP Cloud)
 It is currently only possible to deploy a Fiori application in a TIER-1 package from S/4 HANA 2023 FPS1.
+
+## bgPF
+[SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056)
+
+The bgPF (`background processing framework`) is a framework that offers functionality and convenience for applications, which need to run processing steps in the background, in a reliable way. It is a simple and easy-to-use feature to execute time-consuming ABAP methods asynchronously and reliably.

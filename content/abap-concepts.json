@@ -169,6 +169,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "bgPF",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#bgpf",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }
