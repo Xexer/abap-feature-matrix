@@ -52,3 +52,8 @@ Creates a double for the transactional buffer of a RAP object. Use the class `CL
 
 ## Mock EML API
 Creates a double for the EML statement to access or modify a RAP object. Use the class `CL_BOTD_MOCKEMLAPI_BO_TEST_ENV` with the methods PREPARE_ENVIRONMENT_CONFIG and CREATE to initialize the double. Before use, you have to configure the call, like the class double.
+
+## bgPF Spy
+[SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056)
+
+Observe a bgPF (background processing framework) process while using the class `CL_BGMC_TEST_ENVIRONMENT` with the method CREATE_FOR_SPYING, so you could validate informations like processes started.

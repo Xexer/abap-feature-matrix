@@ -98,6 +98,14 @@
             "Release": {
                 "2022": "x"
             }
+        },
+        {
+            "Text": "bgPF Spy",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#bgpf-spy",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }
