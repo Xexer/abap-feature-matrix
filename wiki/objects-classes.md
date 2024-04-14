@@ -72,12 +72,12 @@ The new method `GET_LATEST_T100_EXCEPTION` in the class CL_MESSAGE_HELPER is use
 The exception that occurs when an operation with a string exceeds its maximum size is now connected to the exception class `CX_SY_STRING_SIZE_TOO_LARGE` and can be handled. Previously, it always resulted in runtime error STRING_SIZE_TOO_LARGE. This exception can also be handled for the statement CALL TRANSFORMATION if some conditions are met.
 
 ## CL_ABAP_BIGINT
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_bigint_doc.htm)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_bigint_doc.htm) · [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/new-classes-for-arbitrary-precision-arithmetic-in-abap/ba-p/13577251)
 
 `CL_ABAP_BIGINT` contains methods for calculations with any size of integer in ABAP.
 
 ## CL_ABAP_RATIONAL
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_rational_doc.htm)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_rational_doc.htm) · [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/new-classes-for-arbitrary-precision-arithmetic-in-abap/ba-p/13577251)
 
 `CL_ABAP_RATIONAL` contains methods for calculating with rational numbers without any precision loss.
 
