@@ -123,3 +123,26 @@ It is currently only possible to deploy a Fiori application in a TIER-1 package 
 [SAP Help](https://help.sap.com/docs/abap-cloud/abap-concepts/background-processing-framework?locale=en-US) · [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056)
 
 The bgPF (`background processing framework`) is a framework that offers functionality and convenience for applications, which need to run processing steps in the background, in a reliable way. It is a simple and easy-to-use feature to execute time-consuming ABAP methods asynchronously and reliably.
+
+## ABAP SQL Table Buffer Engine
+[SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/joins-on-internal-tables-the-abap-sql-table-buffer-engine-is-grown-up/ba-p/13572640)
+
+The ABAP table buffer has an innocent-sounding name. Contrary to query buffers, which store the result of a previous query, the ABAP table buffer buffers the underlying database tables. It is then possible to execute SELECT queries on these buffered tables. This happens through a full-fledged in-memory database engine, the ABAP SQL Engine. In this case, all SQL is executed in the ABAP server and not on the database.
+
+Release 1709 (7.52):
+- Single buffered table or internal table in the FROM clause
+- WHERE conditions without subselects
+- COUNT(*) aggregate function (but no other aggregate functions)
+- ORDER BY PRIMARY KEY
+
+Release 1809 (7.53):
+- Some common SQL functions (like CONCAT, SUBSTRING, LEFT, UPPER)
+- Arithmetic expressions (+, -, *)
+- SQL expressions like CASE or COALESCE
+- NULL values
+
+Release 2022 (7.57):
+- Arbitrary ORDER BY clause
+
+Release 2023 (7.58):
+- Joins and CTEs on internal tables

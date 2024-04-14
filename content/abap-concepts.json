@@ -177,6 +177,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "ABAP SQL Table Buffer Engine",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-sql-table-buffer-engine",
+            "Help": "https://community.sap.com/t5/technology-blogs-by-sap/joins-on-internal-tables-the-abap-sql-table-buffer-engine-is-grown-up/ba-p/13572640",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

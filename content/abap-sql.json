@@ -188,7 +188,7 @@
             }
         },
         {
-            "Text": "SELECT FROM @itab",
+            "Text": "SELECT FROM @itab (*)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#select-from-itab",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm",
             "Release": {

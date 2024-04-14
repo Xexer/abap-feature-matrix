@@ -92,7 +92,7 @@ The new addition `EXTENDED RESULT` of an INTO clause can be used to provide an e
 ## SELECT FROM @itab
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm)
 
-An internal table can be specified as a data source data source of a query. This statement cannot be executed on all database systems, if the data from the internal table needs to be passed to the database.
+An internal table can be specified as a data source data source of a query. This statement cannot be executed on all database systems, if the data from the internal table needs to be passed to the database. You can find more information on this topic and the supported features in the wiki on the topic "[ABAP SQL Table Buffer Engine](https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-sql-table-buffer-engine)".
 
 ## Operator LIKE
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_expr_logexp.htm)
