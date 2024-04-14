@@ -59,7 +59,7 @@
             }
         },
         {
-            "Text": "CL_ABAP_PARALLEL",
+            "Text": "CL_ABAP_PARALLEL (*)",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_parallel",
             "Help": "https://community.sap.com/t5/application-development-blog-posts/using-class-cl-abap-parallel-for-mass-parallel-dialog-work-processes/ba-p/13579844",
             "Release": {
