@@ -146,3 +146,8 @@ Release 2022 (7.57):
 
 Release 2023 (7.58):
 - Joins and CTEs on internal tables
+
+## Service Consumption Model
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/c238d694b825421f940829321ffa326a/96132822b3554016b653d3601bb9ff1a.html?locale=en-US)
+
+The Service Consumption Model is an easy way to consume OData, SOAP and RFC scenarios and will be available on-premise with release 2025. Actual you can [build a wrapper](https://community.sap.com/t5/technology-blogs-by-sap/how-to-use-the-odata-client-proxy-in-sap-s-4-hana-or-how-to-use-the-odata/ba-p/13425200) with the existing classes, to use it before 2025.

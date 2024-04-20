@@ -63,5 +63,10 @@
         "ReleaseId": "2023",
         "Description": "2023 (7.58)",
         "Order": 130
+    },
+    {
+        "ReleaseId": "2025",
+        "Description": "2025 (7.xx)",
+        "Order": 140
     }
 ]

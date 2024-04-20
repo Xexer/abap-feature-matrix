@@ -185,6 +185,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Service Consumption Model (*)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#service-consumption-model",
+            "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/c238d694b825421f940829321ffa326a/96132822b3554016b653d3601bb9ff1a.html?locale=en-US",
+            "Release": {
+                "2025": "x"
+            }
         }
     ]
 }
