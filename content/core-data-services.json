@@ -242,6 +242,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Table Entities",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/core-data-services.md#table-entities",
+            "Help": "",
+            "Release": {
+                "2025": "x"
+            }
         }
     ]
 }

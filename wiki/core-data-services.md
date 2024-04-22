@@ -155,3 +155,8 @@ A new syntax for specifying the cardinality of CDS associations, CDS joins, and 
 ```
 
 This syntax allows a source and a target cardinality to be specified, while the previously available numeric syntax only allowed the target cardinality to be specified. The new cardinality syntax can be used to improve query performance. It is available in CDS view entities, CDS projection views, CDS custom entities, and CDS abstract entities.
+
+## Table Entities
+[SAP Roadmap](https://help.sap.com/docs/abap-cross-product/roadmap-info/implementation)
+
+So far, the ABAP CDS-based modeling approach didn’t cover the definition of the persistence layer of your application. With CDS table entities this gap will be closed. They'll allow you the define and manage HANA database tables via “first class” CDS concepts (like associations, annotations, CDS simple types and CDS aspects) and by offering “nice” camel-case names for entity- and element names.
