@@ -105,6 +105,11 @@ The new variant WAIT FOR PUSH CHANNELS waits for APC messages in ABAP Push Chann
 
 The new Boolean function `xsdbool` returns the value X or a blank of the type c with the length 1, depending on the truth value of the logical expression specified as the argument.
 
+## REDUCE
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_reduce.htm)
+
+A constructor expression with the reduction operator `REDUCE` creates a result of a data type specified using type from one or more iteration expressions.
+
 ## FILTER
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_filter.htm)
 

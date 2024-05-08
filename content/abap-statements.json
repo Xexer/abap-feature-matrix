@@ -139,6 +139,14 @@
             }
         },
         {
+            "Text": "REDUCE",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#reduce",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_reduce.htm",
+            "Release": {
+                "7408": "x"
+            }
+        },
+        {
             "Text": "FILTER",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-statements.md#filter",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenconstructor_expression_filter.htm",
