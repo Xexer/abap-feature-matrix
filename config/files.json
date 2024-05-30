@@ -68,5 +68,10 @@
         "Title": "ABAP Development Tools (ADT)",
         "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/adt.json",
         "Order": 2
+    },
+    {
+        "Title": "ABAP Cloud",
+        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-cloud.json",
+        "Order": 0
     }
 ]

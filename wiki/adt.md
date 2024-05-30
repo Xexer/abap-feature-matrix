@@ -213,3 +213,9 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 
 
 ## Object Set Playground
+
+
+## Tool Bridge
+(SAP Help)[https://help.sap.com/docs/abap-cloud/abap-cds-tools-user-guide/creating-fiori-project?locale=en-US]
+
+The `Tool Bridge` integrates the developer tools (ADT) towards front-end development. The options Business Application Studio (BAS) and Visual Studio Code (VS Code) are available here. The downport for S/4 HANA 2023 is currently still in progress, the note will then be added here.

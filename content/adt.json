@@ -552,6 +552,15 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Tool Bridge (*)",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/adt.md#tool-bridge",
+            "Help": "https://help.sap.com/docs/abap-cloud/abap-cds-tools-user-guide/creating-fiori-project?locale=en-US",
+            "Release": {
+                "2023": "d",
+                "2025": "x"
+            }
         }
     ]
 }

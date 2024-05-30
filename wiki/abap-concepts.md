@@ -113,12 +113,6 @@ Alias names can now be declared for secondary keys of internal tables by using t
 
 The new predefined RFC destination SELF works as NONE but uses the RFC protocol fast serialization.
 
-## Software Components (ABAP Cloud)
-Software components can be created for different language versions in order to define pure TIER-1 packages in which development can be carried out according to the rules of “ABAP for Cloud”.
-
-## T1 Fiori Deployment (ABAP Cloud)
-It is currently only possible to deploy a Fiori application in a TIER-1 package from S/4 HANA 2023 FPS1.
-
 ## bgPF
 [SAP Help](https://help.sap.com/docs/abap-cloud/abap-concepts/background-processing-framework?locale=en-US) · [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056)
 

@@ -1,0 +1,30 @@
+{
+    "Name": "ABAP Cloud",
+    "Description" : "",
+    "Content": [
+        {
+            "Text": "Software Components",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-cloud.md#software-components-abap-cloud",
+            "Help": "",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
+            "Text": "T1 Fiori Deployment",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-cloud.md#t1-fiori-deployment-abap-cloud",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
+        },
+        {
+            "Text": "Software Component Relations",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-cloud.md#software-component-relations",
+            "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-software-component-relations?locale=en-US",
+            "Release": {
+                "2025": "x"
+            }
+        }
+    ]
+}
