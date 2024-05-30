@@ -79,8 +79,7 @@
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#authority-check-helper",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/managing-dependencies-on-abap-authority-checks-with-abap-unit?locale=en-US",
             "Release": {
-                "2020": "",
-                "2021": "x"
+                "2020": "x"
             }
         },
         {
