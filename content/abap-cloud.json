@@ -11,6 +11,14 @@
             }
         },
         {
+            "Text": "Business Configuration",
+            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-cloud.md#business-configuration",
+            "Help": "https://help.sap.com/docs/btp/sap-business-technology-platform/fiori-apps-business-configuration?locale=en-US",
+            "Release": {
+                "2022": "x"
+            }
+        },
+        {
             "Text": "T1 Fiori Deployment",
             "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-cloud.md#t1-fiori-deployment-abap-cloud",
             "Help": "",
