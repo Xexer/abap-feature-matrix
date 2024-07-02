@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "PARTIALLY IMPLEMENTED",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#partially-implemented",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#partially-implemented",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapinterfaces_partially.htm",
             "Release": {
                 "7402": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "Class Double (Interface)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#class-double-interface",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#class-double-interface",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/abap-oo-test-double-framework?locale=en-US",
             "Release": {
                 "7410": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "Class Double (Class)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#class-double-class",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#class-double-class",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/managing-object-oriented-dependencies-with-abap-unit?locale=en-US",
             "Release": {
                 "1809": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "TEST-SEAM",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#test-seam",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#test-seam",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentest_seams.htm",
             "Release": {
                 "1511": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "SQL Double",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#sql-double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#sql-double",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/abap-sql-test-double-framework?locale=en-US",
             "Release": {
                 "1709": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "CDS Double",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#cds-double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#cds-double",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/abap-cds-test-double-framework?locale=en-US",
             "Release": {
                 "1610": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "\"! @testing",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#-testing",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#-testing",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abentest_relations.htm",
             "Release": {
                 "1709": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "CL_OSQL_REPLACE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#cl_osql_replace",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#cl_osql_replace",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_osql_replace.htm",
             "Release": {
                 "1709": "x"
@@ -68,7 +68,7 @@
         },
         {
             "Text": "Function Double",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#function-double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#function-double",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/managing-dependencies-on-abap-function-modules-with-abap-unit?locale=en-US",
             "Release": {
                 "2021": "x"
@@ -76,7 +76,7 @@
         },
         {
             "Text": "Authority Check Helper",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#authority-check-helper",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#authority-check-helper",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/managing-dependencies-on-abap-authority-checks-with-abap-unit?locale=en-US",
             "Release": {
                 "2020": "x"
@@ -84,7 +84,7 @@
         },
         {
             "Text": "Transactional Buffer Double",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#transactional-buffer-double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#transactional-buffer-double",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/transactional-buffer-double-support?locale=en-US",
             "Release": {
                 "2022": "x"
@@ -92,7 +92,7 @@
         },
         {
             "Text": "Mock EML API",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#mock-eml-api",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#mock-eml-api",
             "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/mock-eml-api-support?locale=en-US",
             "Release": {
                 "2022": "x"
@@ -100,7 +100,7 @@
         },
         {
             "Text": "bgPF Spy",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-unit.md#bgpf-spy",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#bgpf-spy",
             "Help": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056",
             "Release": {
                 "2023": "x"

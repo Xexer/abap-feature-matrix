@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "Inline Declaration",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#inline-declaration",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#inline-declaration",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abeninline_declarations.htm",
             "Release": {
                 "7402": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "ABAP Messaging Channels",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-messaging-channels",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-messaging-channels",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenamc.htm",
             "Release": {
                 "7402": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "ABAP Docs",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-docs",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-docs",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abendoccomment.htm",
             "Release": {
                 "7402": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "Meshes (Types & Processing)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#meshes-types--processing",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#meshes-types--processing",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_meshes.htm",
             "Release": {
                 "7405": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "ABAP Push Channels",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-push-channels",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-push-channels",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenapc.htm",
             "Release": {
                 "7405": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "Predicative Method Calls",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#predicative-method-calls",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#predicative-method-calls",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenpredicative_method_calls.htm",
             "Release": {
                 "7408": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "ABAP for Key Users",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-for-key-users",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-for-key-users",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_for_key_users_glosry.htm",
             "Release": {
                 "1511": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "ABAP Doc short texts (synchronized)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-doc-short-texts",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-doc-short-texts",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abendoccomment.htm#@@ITOC@@ABENDOCCOMMENT_4",
             "Release": {
                 "1511": "x"
@@ -68,7 +68,7 @@
         },
         {
             "Text": "ABAP Daemons",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-daemons",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-daemons",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_daemon.htm",
             "Release": {
                 "1709": "x"
@@ -76,7 +76,7 @@
         },
         {
             "Text": "ABAP Doc links",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-doc-links",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-doc-links",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abendoccomment.htm#@@ITOC@@ABENDOCCOMMENT_5",
             "Release": {
                 "1709": "x"
@@ -84,7 +84,7 @@
         },
         {
             "Text": "HANA only",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#hana-only",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#hana-only",
             "Help": "https://help.sap.com/docs/SAP_HANA_PLATFORM/fc5ace7a367c434190a8047881f92ed8/d8d14ef53e244f6cabd10dd3f5e8c11e.html?locale=en-US",
             "Release": {
                 "1809": "x"
@@ -92,7 +92,7 @@
         },
         {
             "Text": "Open SQL -> ABAP SQL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#open-sql-to-abap-sql",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#open-sql-to-abap-sql",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql.htm",
             "Release": {
                 "1809": "x"
@@ -100,7 +100,7 @@
         },
         {
             "Text": "ABAP for Cloud Development",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-for-cloud-development",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-for-cloud-development",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_versions_and_apis.htm#@@ITOC@@ABENABAP_VERSIONS_AND_APIS_1",
             "Release": {
                 "1809": "x"
@@ -108,7 +108,7 @@
         },
         {
             "Text": "PCRE regular expressions",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#pcre-regular-expressions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#pcre-regular-expressions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenregex_pcre_syntax.htm",
             "Release": {
                 "2020": "x"
@@ -116,7 +116,7 @@
         },
         {
             "Text": "Component Selector; cref->(attr_name)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#component-selector",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#component-selector",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenobject_component_selector.htm",
             "Release": {
                 "2021": "x"
@@ -124,7 +124,7 @@
         },
         {
             "Text": "XPath Regular Expressions",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#xpath-regular-expressions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#xpath-regular-expressions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenregex_xpath_syntax.htm",
             "Release": {
                 "2021": "x"
@@ -132,7 +132,7 @@
         },
         {
             "Text": "XSD Regular Expressions",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#xsd-regular-expressions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#xsd-regular-expressions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenregex_xsd_syntax.htm",
             "Release": {
                 "2021": "x"
@@ -140,7 +140,7 @@
         },
         {
             "Text": "Alias Names for Secondary Keys",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#alias-names-for-secondary-keys",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#alias-names-for-secondary-keys",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenitab_key_secondary.htm",
             "Release": {
                 "2021": "x"
@@ -148,7 +148,7 @@
         },
         {
             "Text": "SELF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#self",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#self",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenrfc_destination.htm#@@ITOC@@ABENRFC_DESTINATION_3",
             "Release": {
                 "2021": "x"
@@ -156,7 +156,7 @@
         },
         {
             "Text": "bgPF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#bgpf",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#bgpf",
             "Help": "https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056",
             "Release": {
                 "2023": "x"
@@ -164,7 +164,7 @@
         },
         {
             "Text": "ABAP SQL Table Buffer Engine",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#abap-sql-table-buffer-engine",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#abap-sql-table-buffer-engine",
             "Help": "https://community.sap.com/t5/technology-blogs-by-sap/joins-on-internal-tables-the-abap-sql-table-buffer-engine-is-grown-up/ba-p/13572640",
             "Release": {
                 "2023": "x"
@@ -172,7 +172,7 @@
         },
         {
             "Text": "Service Consumption Model (*)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-concepts.md#service-consumption-model",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-concepts.md#service-consumption-model",
             "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/c238d694b825421f940829321ffa326a/96132822b3554016b653d3601bb9ff1a.html?locale=en-US",
             "Release": {
                 "2025": "x"

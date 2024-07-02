@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "Blank-Separated Lists",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#blank-separated-lists",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#blank-separated-lists",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_lists_obsolete.htm",
             "Release": {
                 "7402": "x",
@@ -13,7 +13,7 @@
         },
         {
             "Text": "Comma-Separated Lists",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#comma-separated-lists",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#comma-separated-lists",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect.htm",
             "Release": {
                 "7405": "x"
@@ -21,7 +21,7 @@
         },
         {
             "Text": "Host Variables (@)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#host-variables-",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#host-variables-",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_host_variables.htm",
             "Release": {
                 "7405": "x"
@@ -29,7 +29,7 @@
         },
         {
             "Text": "INLINE Declaration",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#inline-declaration",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#inline-declaration",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abeninline_declarations.htm",
             "Release": {
                 "7408": "x"
@@ -37,7 +37,7 @@
         },
         {
             "Text": "CASE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#case",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#case",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_searched_case.htm",
             "Release": {
                 "7408": "x"
@@ -45,7 +45,7 @@
         },
         {
             "Text": "Read CDS with parameters",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#read-cds-with-parameters",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#read-cds-with-parameters",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_data_source.htm#!ABAP_ALTERNATIVE_2@2@",
             "Release": {
                 "7408": "x"
@@ -53,7 +53,7 @@
         },
         {
             "Text": "UNION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#union",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#union",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion_clause.htm",
             "Release": {
                 "1511": "x"
@@ -61,7 +61,7 @@
         },
         {
             "Text": "@( expr )",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#-expr-",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#-expr-",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_host_variables.htm",
             "Release": {
                 "1511": "x"
@@ -69,7 +69,7 @@
         },
         {
             "Text": "CDS Path Expressions",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#cds-path-expressions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#cds-path-expressions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_path.htm",
             "Release": {
                 "1511": "x"
@@ -77,7 +77,7 @@
         },
         {
             "Text": "Common Table Expressions (WITH)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#common-table-expressions-with",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#common-table-expressions-with",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwith.htm",
             "Release": {
                 "1610": "x"
@@ -85,7 +85,7 @@
         },
         {
             "Text": "Cross Join",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#cross-join",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#cross-join",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_join.htm",
             "Release": {
                 "1610": "x"
@@ -93,7 +93,7 @@
         },
         {
             "Text": "DIVISION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#division",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#division",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_arith_func.htm",
             "Release": {
                 "1610": "x"
@@ -101,7 +101,7 @@
         },
         {
             "Text": "LOWER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#lower-and-upper",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#lower-and-upper",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -109,7 +109,7 @@
         },
         {
             "Text": "UPPER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#lower-and-upper",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#lower-and-upper",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -117,7 +117,7 @@
         },
         {
             "Text": "LEFT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#string-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#string-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -125,7 +125,7 @@
         },
         {
             "Text": "CONCAT_WITH_SPACE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#string-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#string-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -133,7 +133,7 @@
         },
         {
             "Text": "INSTR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#string-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#string-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -141,7 +141,7 @@
         },
         {
             "Text": "RPAD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#string-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#string-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "1610": "x"
@@ -149,7 +149,7 @@
         },
         {
             "Text": "DATS_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#date-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
             "Release": {
                 "1610": "x"
@@ -157,7 +157,7 @@
         },
         {
             "Text": "DATS_DAYS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#date-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
             "Release": {
                 "1610": "x"
@@ -165,7 +165,7 @@
         },
         {
             "Text": "DATS_ADD_DAYS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#date-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
             "Release": {
                 "1610": "x"
@@ -173,7 +173,7 @@
         },
         {
             "Text": "DATS_ADD_MONTHS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#date-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
             "Release": {
                 "1610": "x"
@@ -181,7 +181,7 @@
         },
         {
             "Text": "EXTENDED RESULT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extended-result",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extended-result",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_extended_result.htm",
             "Release": {
                 "1610": "x"
@@ -189,7 +189,7 @@
         },
         {
             "Text": "SELECT FROM @itab (*)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#select-from-itab",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#select-from-itab",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm",
             "Release": {
                 "1709": "x"
@@ -197,7 +197,7 @@
         },
         {
             "Text": "Operator LIKE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#operator-like",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#operator-like",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_expr_logexp.htm",
             "Release": {
                 "1709": "x"
@@ -205,7 +205,7 @@
         },
         {
             "Text": "BINTOHEX",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#binary-operations",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#binary-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm",
             "Release": {
                 "1709": "x"
@@ -213,7 +213,7 @@
         },
         {
             "Text": "HEXTOBIN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#binary-operations",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#binary-operations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm",
             "Release": {
                 "1709": "x"
@@ -221,7 +221,7 @@
         },
         {
             "Text": "WITH PRIVILEGED ACCESS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#with-privileged-access",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#with-privileged-access",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_data_source.htm",
             "Release": {
                 "1709": "x"
@@ -229,7 +229,7 @@
         },
         {
             "Text": "NOT BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#not-between-and-like",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#not-between-and-like",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_expr_logexp.htm",
             "Release": {
                 "1709": "x"
@@ -237,7 +237,7 @@
         },
         {
             "Text": "NOT LIKE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#not-between-and-like",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#not-between-and-like",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_expr_logexp.htm",
             "Release": {
                 "1709": "x"
@@ -245,7 +245,7 @@
         },
         {
             "Text": "Secondary Connections",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#secondary-connections",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#secondary-connections",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abendb_connections.htm",
             "Release": {
                 "1809": "x"
@@ -253,7 +253,7 @@
         },
         {
             "Text": "IS INITIAL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#is-initial",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#is-initial",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenwhere_logexp_initial.htm",
             "Release": {
                 "1809": "x"
@@ -261,7 +261,7 @@
         },
         {
             "Text": "TIMS_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tims_is_valid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_is_valid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#@@ITOC@@ABENSQL_TIME_FUNC_2",
             "Release": {
                 "1809": "x"
@@ -269,7 +269,7 @@
         },
         {
             "Text": "TSTMP_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#timestamp-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
             "Release": {
                 "1809": "x"
@@ -277,7 +277,7 @@
         },
         {
             "Text": "TSTMP_CURRENT_UTCTIMESTAMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#timestamp-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
             "Release": {
                 "1809": "x"
@@ -285,7 +285,7 @@
         },
         {
             "Text": "TSTMP_SECONDS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#timestamp-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
             "Release": {
                 "1809": "x"
@@ -293,7 +293,7 @@
         },
         {
             "Text": "TSTMP_ADD_SECONDS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#timestamp-functions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
             "Release": {
                 "1809": "x"
@@ -301,7 +301,7 @@
         },
         {
             "Text": "TSTMP_TO_DATS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datetime-conversions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1809": "x"
@@ -309,7 +309,7 @@
         },
         {
             "Text": "TSTMP_TO_TIMS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datetime-conversions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1809": "x"
@@ -317,7 +317,7 @@
         },
         {
             "Text": "TSTMP_TO_DST",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datetime-conversions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "1809": "x"
@@ -325,7 +325,7 @@
         },
         {
             "Text": "DATS_TIMS_TO_TSTMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datetime-conversions",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "1809": "x"
@@ -333,7 +333,7 @@
         },
         {
             "Text": "ABAP_SYSTEM_TIMEZONE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#abap_system_timezone",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#abap_system_timezone",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1809": "x"
@@ -341,7 +341,7 @@
         },
         {
             "Text": "ABAP_USER_TIMEZONE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#abap_user_timezone",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#abap_user_timezone",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1809": "x"
@@ -349,7 +349,7 @@
         },
         {
             "Text": "WITH ASSOCIATIONS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#with-associations",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#with-associations",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapwith_associations.htm",
             "Release": {
                 "1809": "x"
@@ -357,7 +357,7 @@
         },
         {
             "Text": "INTO ... NEW",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#into--new",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#into--new",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_into_target.htm",
             "Release": {
                 "1909": "x"
@@ -365,7 +365,7 @@
         },
         {
             "Text": "INTO ... INDICATORS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#into--indicators",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#into--indicators",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_indicators.htm",
             "Release": {
                 "1909": "x"
@@ -373,7 +373,7 @@
         },
         {
             "Text": "STRING_AGG",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#string_agg",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#string_agg",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_aggregate.htm",
             "Release": {
                 "1909": "x"
@@ -381,7 +381,7 @@
         },
         {
             "Text": "PERIOD FROM TO VALID FROM TO",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#period-from-to-valid-from-to",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#period-from-to-valid-from-to",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenselect_hierarchy_generator.htm#!ABAP_ADDITION_3@3@",
             "Release": {
                 "1909": "x"
@@ -389,7 +389,7 @@
         },
         {
             "Text": "HIERARCHY DESCENDANTS AGGREGATE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#hierarchy-descendants-aggregate",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#hierarchy-descendants-aggregate",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenselect_hierarchy_agg_navis.htm",
             "Release": {
                 "1909": "x"
@@ -397,7 +397,7 @@
         },
         {
             "Text": "LEAD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#leadlag",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#leadlag",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "1909": "x"
@@ -405,7 +405,7 @@
         },
         {
             "Text": "LAG",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#leadlag",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#leadlag",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "1909": "x"
@@ -413,7 +413,7 @@
         },
         {
             "Text": "UUID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#uuid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#uuid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_uuid.htm",
             "Release": {
                 "1909": "x"
@@ -421,7 +421,7 @@
         },
         {
             "Text": "ALLOW_PRECISION_LOSS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#allow_precision_loss",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#allow_precision_loss",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_allow_precision_loss.htm",
             "Release": {
                 "2020": "x"
@@ -429,7 +429,7 @@
         },
         {
             "Text": "FIRST_VALUE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#first_value",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#first_value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
@@ -437,7 +437,7 @@
         },
         {
             "Text": "LAST_VALUE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#last_value",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#last_value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
@@ -445,7 +445,7 @@
         },
         {
             "Text": "TSTMPL_TO_UTCL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tstmpl_to_utcl",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tstmpl_to_utcl",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2020": "x"
@@ -453,7 +453,7 @@
         },
         {
             "Text": "TSTMPL_FROM_UTCL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tstmpl_from_utcl",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tstmpl_from_utcl",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "2020": "x"
@@ -461,7 +461,7 @@
         },
         {
             "Text": "DATS_TO_DATN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#dats_to_datn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dats_to_datn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
@@ -469,7 +469,7 @@
         },
         {
             "Text": "DATS_FROM_DATN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#dats_from_datn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dats_from_datn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "2020": "x"
@@ -477,7 +477,7 @@
         },
         {
             "Text": "TIMS_TO_TIMN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tims_to_timn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_to_timn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "2020": "x"
@@ -485,7 +485,7 @@
         },
         {
             "Text": "TIMS_FROM_TIMN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#tims_from_timn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_from_timn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "2020": "x"
@@ -493,7 +493,7 @@
         },
         {
             "Text": "UTCL_CURRENT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_current",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_current",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2020": "x"
@@ -501,7 +501,7 @@
         },
         {
             "Text": "UTCL_ADD_SECONDS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_add_seconds",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_add_seconds",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
@@ -509,7 +509,7 @@
         },
         {
             "Text": "UTCL_SECONDS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#utcl_seconds_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_seconds_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2020": "x"
@@ -517,7 +517,7 @@
         },
         {
             "Text": "DATN_DAYS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_days_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_days_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@11@",
             "Release": {
                 "2020": "x"
@@ -525,7 +525,7 @@
         },
         {
             "Text": "DATN_ADD_DAYS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_add_days",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_add_days",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@12@",
             "Release": {
                 "2020": "x"
@@ -533,7 +533,7 @@
         },
         {
             "Text": "DATN_ADD_MONTHS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#datn_add_months",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_add_months",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@13@",
             "Release": {
                 "2020": "x"
@@ -541,7 +541,7 @@
         },
         {
             "Text": "NULLS FIRST",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#nulls-firstlast",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#nulls-firstlast",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2020": "x"
@@ -549,7 +549,7 @@
         },
         {
             "Text": "NULLS LAST",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#nulls-firstlast",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#nulls-firstlast",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
             "Release": {
                 "2020": "x"
@@ -557,7 +557,7 @@
         },
         {
             "Text": "MEDIAN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#median",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#median",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
@@ -565,7 +565,7 @@
         },
         {
             "Text": "STDDEV",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#stddev",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#stddev",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2020": "x"
@@ -573,7 +573,7 @@
         },
         {
             "Text": "VAR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#var",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#var",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "2020": "x"
@@ -581,7 +581,7 @@
         },
         {
             "Text": "CORR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#corr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#corr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "2020": "x"
@@ -589,7 +589,7 @@
         },
         {
             "Text": "CORR_SPEARMAN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#corr_spearman",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#corr_spearman",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "2020": "x"
@@ -597,7 +597,7 @@
         },
         {
             "Text": "AS_GEO_JSON",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#as_geo_json",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#as_geo_json",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_geo_conv_func.htm",
             "Release": {
                 "2020": "x"
@@ -605,7 +605,7 @@
         },
         {
             "Text": "NTILE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#ntile",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#ntile",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2020": "x"
@@ -613,7 +613,7 @@
         },
         {
             "Text": "TO_BLOB",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#to_blob",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#to_blob",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2B@4@",
             "Release": {
                 "2020": "x"
@@ -621,7 +621,7 @@
         },
         {
             "Text": "TO_CLOB",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#to_clob",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#to_clob",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2A@3@",
             "Release": {
                 "2020": "x"
@@ -629,7 +629,7 @@
         },
         {
             "Text": "CURRENCY_CONVERSION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#currency_conversion",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#currency_conversion",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2020": "x"
@@ -637,7 +637,7 @@
         },
         {
             "Text": "Typed Literals",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#typed-literals",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#typed-literals",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_typed_literals.htm",
             "Release": {
                 "2020": "x"
@@ -645,7 +645,7 @@
         },
         {
             "Text": "REPLACE_REGEXPR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#replace_regexpr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#replace_regexpr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
@@ -653,7 +653,7 @@
         },
         {
             "Text": "LIKE_REGEXPR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#like_regexpr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#like_regexpr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
@@ -661,7 +661,7 @@
         },
         {
             "Text": "OCCURRENCES_REGEXPR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#occurrences_regexpr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#occurrences_regexpr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2020": "x"
@@ -669,7 +669,7 @@
         },
         {
             "Text": "INITCAP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#initcap",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#initcap",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2021": "x"
@@ -677,7 +677,7 @@
         },
         {
             "Text": "IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#is_valid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#is_valid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2021": "x"
@@ -685,7 +685,7 @@
         },
         {
             "Text": "EXTRACT_YEAR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_year",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_year",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2021": "x"
@@ -693,7 +693,7 @@
         },
         {
             "Text": "EXTRACT_MONTH",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_month",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_month",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2021": "x"
@@ -701,7 +701,7 @@
         },
         {
             "Text": "EXTRACT_DAY",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_day",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_day",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "2021": "x"
@@ -709,7 +709,7 @@
         },
         {
             "Text": "EXTRACT_HOUR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_hour",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_hour",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2021": "x"
@@ -717,7 +717,7 @@
         },
         {
             "Text": "EXTRACT_MINUTE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_minute",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_minute",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2021": "x"
@@ -725,7 +725,7 @@
         },
         {
             "Text": "EXTRACT_SECOND",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#extract_second",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_second",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "2021": "x"
@@ -733,7 +733,7 @@
         },
         {
             "Text": "DAYNAME",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#dayname",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dayname",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "2021": "x"
@@ -741,7 +741,7 @@
         },
         {
             "Text": "MONTHNAME",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#monthname",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#monthname",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "2021": "x"
@@ -749,7 +749,7 @@
         },
         {
             "Text": "WEEKDAY",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#weekday",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#weekday",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "2021": "x"
@@ -757,7 +757,7 @@
         },
         {
             "Text": "DAYS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#days_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#days_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "2021": "x"
@@ -765,7 +765,7 @@
         },
         {
             "Text": "ADD_DAYS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#add_days",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#add_days",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "2021": "x"
@@ -773,7 +773,7 @@
         },
         {
             "Text": "ADD_MONTHS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#add_months",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#add_months",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "2021": "x"
@@ -781,7 +781,7 @@
         },
         {
             "Text": "New Casts",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#new-casts",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#new-casts",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_cast.htm",
             "Release": {
                 "2021": "x"
@@ -789,7 +789,7 @@
         },
         {
             "Text": "INTERSECT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#intersect",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#intersect",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "2021": "x"
@@ -797,7 +797,7 @@
         },
         {
             "Text": "EXCEPT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#except",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#except",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2021": "x"
@@ -805,7 +805,7 @@
         },
         {
             "Text": " UNIT_CONVERSION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#unit_conversion",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#unit_conversion",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "2021": "x"
@@ -813,7 +813,7 @@
         },
         {
             "Text": "NULL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#null",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#null",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_null.htm",
             "Release": {
                 "2021": "x"
@@ -821,7 +821,7 @@
         },
         {
             "Text": "SUBSTRING_REGEXPR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#substring_regexpr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#substring_regexpr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_string_func.htm",
             "Release": {
                 "2021": "x"
@@ -829,7 +829,7 @@
         },
         {
             "Text": "INDICATORS ... NULL BITFIELD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#indicators--null-bitfield",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#indicators--null-bitfield",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_indicators.htm#!ABAP_ALTERNATIVE_2@2@",
             "Release": {
                 "2021": "x"
@@ -837,7 +837,7 @@
         },
         {
             "Text": "New Cardinality",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#new-cardinality",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#new-cardinality",
             "Help": "",
             "Release": {
                 "2023": "x"
@@ -845,7 +845,7 @@
         },
         {
             "Text": "PRIVILEGED ACCESS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#privileged-access",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#privileged-access",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_privileged_access.htm",
             "Release": {
                 "2023": "x"
@@ -853,7 +853,7 @@
         },
         {
             "Text": "Multiple table FROM @itab",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/abap-sql.md#multiple-tables-from-itab",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#multiple-tables-from-itab",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_itab.htm",
             "Release": {
                 "2023": "x"

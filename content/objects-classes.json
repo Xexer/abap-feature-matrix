@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "CL_ABAP_DBFEATURES",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_dbfeatures",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_dbfeatures",
             "Help": "[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_dbfeatures.htm)",
             "Release": {
                 "7408": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "CL_ABAP_CORRESPONDING",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_corresponding",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_corresponding",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_corresponding.htm",
             "Release": {
                 "1511": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "CL_ABAP_CORRESPONDING (CREATE_USING)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#create_using",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#create_using",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_corresponding_2.htm",
             "Release": {
                 "1610": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "CL_ABAP_CORRESPONDING (EXECUTE_USING)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#execute_using",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#execute_using",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_corresponding_2.htm",
             "Release": {
                 "1610": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "CL_ABAP_CORRESPONDING (CREATE_WITH_VALUE)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#create_with_value",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#create_with_value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_corresponding_3.htm",
             "Release": {
                 "1709": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "CL_DBI_UTILITIES",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_dbi_utilities",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_dbi_utilities",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenddic_database_tables_protocol.htm",
             "Release": {
                 "1511": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "CL_DYNAMIC_DESTINATION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_dynamic_destination",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_dynamic_destination",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenrfc_destination.htm#@@ITOC@@ABENRFC_DESTINATION_2",
             "Release": {
                 "1511": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "CL_ABAP_PARALLEL (*)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_parallel",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_parallel",
             "Help": "https://community.sap.com/t5/application-development-blog-posts/using-class-cl-abap-parallel-for-mass-parallel-dialog-work-processes/ba-p/13579844",
             "Release": {
                 "1511": "d",
@@ -69,7 +69,7 @@
         },
         {
             "Text": "CL_ABAP_CONTEXT_INFO",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_context_info",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_context_info",
             "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/b5670aaaa2364a29935f40b16499972d/252df8501f224b668e9d2b00ffd7b5e9.html?locale=en-US",
             "Release": {
                 "1610": "",
@@ -78,7 +78,7 @@
         },
         {
             "Text": "CL_ABAP_ITAB_UTILITIES (VIRTUAL_SORT)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_itab_utilities",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_itab_utilities",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenvirtual_sort_abexas.htm",
             "Release": {
                 "1709": "x"
@@ -86,7 +86,7 @@
         },
         {
             "Text": "CL_ABAP_BEHV_AUX",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_behv_aux",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_behv_aux",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "1809": "x"
@@ -94,7 +94,7 @@
         },
         {
             "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_CONTEXT)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#get_current_context",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#get_current_context",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "2021": "x"
@@ -102,7 +102,7 @@
         },
         {
             "Text": "CL_ABAP_BEHV_AUX (GET_CURRENT_PHASE)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#get_current_phase",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#get_current_phase",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_behv_aux.htm",
             "Release": {
                 "2023": "x"
@@ -110,7 +110,7 @@
         },
         {
             "Text": "CL_MESSAGE_HELPER (GET_LATEST_T100_EXCEPTION)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_message_helper",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_message_helper",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenif_t100_message.htm",
             "Release": {
                 "1809": "x"
@@ -118,7 +118,7 @@
         },
         {
             "Text": "CX_SY_STRING_SIZE_TOO_LARGE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cx_sy_string_size_too_large",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cx_sy_string_size_too_large",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenmemory_consumption_2.htm",
             "Release": {
                 "2020": "x"
@@ -126,7 +126,7 @@
         },
         {
             "Text": "CL_ABAP_BIGINT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_bigint",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_bigint",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_bigint_doc.htm",
             "Release": {
                 "2023": "x"
@@ -134,7 +134,7 @@
         },
         {
             "Text": "CL_ABAP_RATIONAL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_rational",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_rational",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_rational_doc.htm",
             "Release": {
                 "2023": "x"
@@ -142,7 +142,7 @@
         },
         {
             "Text": "CL_ABAP_DIFF",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_diff",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_diff",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_diff.htm",
             "Release": {
                 "2023": "x"
@@ -150,7 +150,7 @@
         },
         {
             "Text": "CL_ABAP_TSTMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/objects-classes.md#cl_abap_tstmp",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/objects-classes.md#cl_abap_tstmp",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencl_abap_tstmp.htm",
             "Release": {
                 "2023": "x"

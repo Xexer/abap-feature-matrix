@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "Annotations with @<",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#annotations-with-",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#annotations-with-",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_annotations_syntax.htm",
             "Release": {
                 "7408": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "CONCAT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#concat",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#concat",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "7408": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "REPLACE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#replace",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#replace",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "7408": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "ABS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#abs",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#abs",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "DIV",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#div",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#div",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "DIVISION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#division",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#division",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "FLOOR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#floor",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#floor",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "MOD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#mod",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#mod",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -68,7 +68,7 @@
         },
         {
             "Text": "ROUND",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#round",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#round",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_numeric_v1.htm",
             "Release": {
                 "7408": "x"
@@ -76,7 +76,7 @@
         },
         {
             "Text": "COALESCE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#coalesce",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#coalesce",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_coalesce_expression_v1.htm",
             "Release": {
                 "7408": "x"
@@ -84,7 +84,7 @@
         },
         {
             "Text": "UNIT_CONVERSION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#unit_conversion",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#unit_conversion",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_unit_curr_v1.htm",
             "Release": {
                 "7408": "x"
@@ -92,7 +92,7 @@
         },
         {
             "Text": "CURRENCY_CONVERSION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#currency_conversion",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#currency_conversion",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_unit_curr_v1.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "7408": "x"
@@ -100,7 +100,7 @@
         },
         {
             "Text": "DECIMAL_SHIFT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#decimal_shift",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#decimal_shift",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_unit_curr_v1.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "7408": "x"
@@ -108,7 +108,7 @@
         },
         {
             "Text": "CONCAT_WITH_SPACE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#concat_with_space",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#concat_with_space",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -116,7 +116,7 @@
         },
         {
             "Text": "INSTR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#instr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#instr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -124,7 +124,7 @@
         },
         {
             "Text": "LEFT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#left",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#left",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -132,7 +132,7 @@
         },
         {
             "Text": "LENGTH",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#length",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#length",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -140,7 +140,7 @@
         },
         {
             "Text": "LTRIM",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#ltrim",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#ltrim",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -148,7 +148,7 @@
         },
         {
             "Text": "RIGHT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#right",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#right",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -156,7 +156,7 @@
         },
         {
             "Text": "RPAD",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#rpad",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#rpad",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -164,7 +164,7 @@
         },
         {
             "Text": "RTRIM",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#rtrim",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#rtrim",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1511": "x"
@@ -172,7 +172,7 @@
         },
         {
             "Text": "BINTOHEX",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#bintohex",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#bintohex",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_types_v1.htm#!ABAP_VARIANT_2A@2@",
             "Release": {
                 "1511": "x"
@@ -180,7 +180,7 @@
         },
         {
             "Text": "HEXTOBIN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#hextobin",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#hextobin",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_types_v1.htm#!ABAP_VARIANT_2B@3@",
             "Release": {
                 "1511": "x"
@@ -188,7 +188,7 @@
         },
         {
             "Text": "DATS_DAYS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_days_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_days_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "1511": "x"
@@ -196,7 +196,7 @@
         },
         {
             "Text": "DATS_ADD_DAYS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_add_days",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_add_days",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "1511": "x"
@@ -204,7 +204,7 @@
         },
         {
             "Text": "DATS_ADD_MONTHS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_add_months",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_add_months",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "1511": "x"
@@ -212,7 +212,7 @@
         },
         {
             "Text": "DATS_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_is_valid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_is_valid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "1511": "x"
@@ -220,7 +220,7 @@
         },
         {
             "Text": "TIMS_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tims_is_valid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tims_is_valid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_time_functions_v1.htm",
             "Release": {
                 "1511": "x"
@@ -228,7 +228,7 @@
         },
         {
             "Text": "TSTMP_IS_VALID",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_is_valid",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_is_valid",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "1511": "x"
@@ -236,7 +236,7 @@
         },
         {
             "Text": "TSTMP_CURRENT_UTCTIMESTAMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_current_utctimestamp",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_current_utctimestamp",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "1511": "x"
@@ -244,7 +244,7 @@
         },
         {
             "Text": "TSTMP_SECONDS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_seconds_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_seconds_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "1511": "x"
@@ -252,7 +252,7 @@
         },
         {
             "Text": "TSTMP_ADD_SECONDS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_add_seconds",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_add_seconds",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "1511": "x"
@@ -260,7 +260,7 @@
         },
         {
             "Text": "UPPER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#upper",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#upper",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1610": "x"
@@ -268,7 +268,7 @@
         },
         {
             "Text": "LOWER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#lower",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#lower",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v1.htm",
             "Release": {
                 "1610": "x"
@@ -276,7 +276,7 @@
         },
         {
             "Text": "ABAP_SYSTEM_TIMEZONE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#abap_system_timezone",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#abap_system_timezone",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timezone_functions_v1.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1610": "x"
@@ -284,7 +284,7 @@
         },
         {
             "Text": "ABAP_USER_TIMEZONE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#abap_user_timezone",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#abap_user_timezone",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timezone_functions_v1.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1610": "x"
@@ -292,7 +292,7 @@
         },
         {
             "Text": "TSTMP_TO_DATS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_to_dats",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_to_dats",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1610": "x"
@@ -300,7 +300,7 @@
         },
         {
             "Text": "TSTMP_TO_TIMS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_to_tims",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_to_tims",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1610": "x"
@@ -308,7 +308,7 @@
         },
         {
             "Text": "TSTMP_TO_DST",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmp_to_dst",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmp_to_dst",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "1610": "x"
@@ -316,7 +316,7 @@
         },
         {
             "Text": "DATS_TIMS_TO_TSTMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_tims_to_tstmp",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_tims_to_tstmp",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "1610": "x"
@@ -324,7 +324,7 @@
         },
         {
             "Text": "FLTP_TO_DEC",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#fltp_to_dec",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#fltp_to_dec",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_types_v1.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1610": "x"
@@ -332,7 +332,7 @@
         },
         {
             "Text": "IS INITIAL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#is-initial",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#is-initial",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_cond_expr_initial_v1.htm",
             "Release": {
                 "1809": "x"
@@ -340,7 +340,7 @@
         },
         {
             "Text": "DATN_DAYS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#datn_days_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#datn_days_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1909": "x"
@@ -348,7 +348,7 @@
         },
         {
             "Text": "DATN_ADD_DAYS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#datn_add_days",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#datn_add_days",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1909": "x"
@@ -356,7 +356,7 @@
         },
         {
             "Text": "DATN_ADD_MONTHS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#datn_add_months",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#datn_add_months",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_functions_v1.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "1909": "x"
@@ -364,7 +364,7 @@
         },
         {
             "Text": "UTCL_CURRENT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#utcl_current",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#utcl_current",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_1@1@",
             "Release": {
                 "1909": "x"
@@ -372,7 +372,7 @@
         },
         {
             "Text": "UTCL_ADD_SECONDS",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#utcl_add_seconds",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#utcl_add_seconds",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_2@2@",
             "Release": {
                 "1909": "x"
@@ -380,7 +380,7 @@
         },
         {
             "Text": "UTCL_SECONDS_BETWEEN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#utcl_seconds_between",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#utcl_seconds_between",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_timestamp_functions_v1.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "1909": "x"
@@ -388,7 +388,7 @@
         },
         {
             "Text": "TSTMPL_TO_UTCL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmpl_to_utcl",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmpl_to_utcl",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_5@5@",
             "Release": {
                 "1909": "x"
@@ -396,7 +396,7 @@
         },
         {
             "Text": "TSTMPL_FROM_UTCL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tstmpl_from_utcl",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tstmpl_from_utcl",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_6@6@",
             "Release": {
                 "1909": "x"
@@ -404,7 +404,7 @@
         },
         {
             "Text": "DATS_TO_DATN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_to_datn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_to_datn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_7@7@",
             "Release": {
                 "1909": "x"
@@ -412,7 +412,7 @@
         },
         {
             "Text": "DATS_FROM_DATN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#dats_from_datn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#dats_from_datn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_8@8@",
             "Release": {
                 "1909": "x"
@@ -420,7 +420,7 @@
         },
         {
             "Text": "TIMS_TO_TIMN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tims_to_timn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tims_to_timn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_9@9@",
             "Release": {
                 "1909": "x"
@@ -428,7 +428,7 @@
         },
         {
             "Text": "TIMS_FROM_TIMN",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#tims_from_timn",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#tims_from_timn",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_date_time_conversions_v1.htm#!ABAP_VARIANT_10@10@",
             "Release": {
                 "1909": "x"
@@ -436,7 +436,7 @@
         },
         {
             "Text": "REPLACE_REGEXPR",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#replace_regexpr",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#replace_regexpr",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_sql_functions_character_v2.htm",
             "Release": {
                 "2020": "x"
@@ -444,7 +444,7 @@
         },
         {
             "Text": "GET_NUMERIC_VALUE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#get_numeric_value",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#get_numeric_value",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_unit_curr_v2.htm#!ABAP_VARIANT_3@3@",
             "Release": {
                 "2021": "x"
@@ -452,7 +452,7 @@
         },
         {
             "Text": "CURR_TO_DECFLOAT_AMOUNT",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#curr_to_decfloat_amount",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#curr_to_decfloat_amount",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_conv_func_unit_curr_v2.htm#!ABAP_VARIANT_4@4@",
             "Release": {
                 "2021": "x"
@@ -460,7 +460,7 @@
         },
         {
             "Text": "SERIES_GENERATE_DATE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#series_generate_date",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#series_generate_date",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_series_generators.htm#@@ITOC@@ABENCDS_SERIES_GENERATORS_2",
             "Release": {
                 "2021": "x"
@@ -468,7 +468,7 @@
         },
         {
             "Text": "SERIES_GENERATE_INTEGER",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#series_generate_integer",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#series_generate_integer",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_series_generators.htm#@@ITOC@@ABENCDS_SERIES_GENERATORS_3",
             "Release": {
                 "2021": "x"
@@ -476,7 +476,7 @@
         },
         {
             "Text": "SERIES_GENERATE_TIME",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#series_generate_time",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#series_generate_time",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_series_generators.htm#@@ITOC@@ABENCDS_SERIES_GENERATORS_4",
             "Release": {
                 "2021": "x"
@@ -484,7 +484,7 @@
         },
         {
             "Text": "SERIES_GENERATE_TIMESTAMP",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#series_generate_timestamp",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#series_generate_timestamp",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_series_generators.htm#@@ITOC@@ABENCDS_SERIES_GENERATORS_5",
             "Release": {
                 "2021": "x"
@@ -492,7 +492,7 @@
         },
         {
             "Text": "CASE ELSE NULL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-functions.md#case-else-null",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-functions.md#case-else-null",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_case_expression_v2.htm",
             "Release": {
                 "2022": "x"

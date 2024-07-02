@@ -4,7 +4,7 @@
     "Content": [
         {
             "Text": "JOIN (Inner, Left, Right)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#join-inner-left-right",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#join-inner-left-right",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_joined_data_source_v2.htm",
             "Release": {
                 "7405": "x"
@@ -12,7 +12,7 @@
         },
         {
             "Text": "WHERE",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#where",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#where",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_where_clause_v2.htm",
             "Release": {
                 "7405": "x"
@@ -20,7 +20,7 @@
         },
         {
             "Text": "GROUP BY",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#group-by",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#group-by",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_group_by_v2.htm",
             "Release": {
                 "7405": "x"
@@ -28,7 +28,7 @@
         },
         {
             "Text": "HAVING",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#having",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#having",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_having_clause_v2.htm",
             "Release": {
                 "7405": "x"
@@ -36,7 +36,7 @@
         },
         {
             "Text": "UNION",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#union",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#union",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_union_v2.htm",
             "Release": {
                 "7405": "x"
@@ -44,7 +44,7 @@
         },
         {
             "Text": "Cross Join",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#cross-join",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#cross-join",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_joined_data_source_v1.htm",
             "Release": {
                 "1610": "x"
@@ -52,7 +52,7 @@
         },
         {
             "Text": "LOAD BULK|INCREMENTAL",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#load-bulkincremental",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#load-bulkincremental",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_f1_define_hierarchy.htm#!ABAP_ADDITION_9@9@",
             "Release": {
                 "1909": "x"
@@ -60,7 +60,7 @@
         },
         {
             "Text": "EXCEPT (View Entity)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#except-view-entity",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#except-view-entity",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_except_v2.htm",
             "Release": {
                 "2021": "x"
@@ -68,7 +68,7 @@
         },
         {
             "Text": "INTERSECT (View Entity)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#intersect-view-entity",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#intersect-view-entity",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_intersect_v2.htm",
             "Release": {
                 "2021": "x"
@@ -76,7 +76,7 @@
         },
         {
             "Text": "UNION (View Entity)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#union-view-entity",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#union-view-entity",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_union_v2.htm",
             "Release": {
                 "2021": "x"
@@ -84,7 +84,7 @@
         },
         {
             "Text": "DISTINCT (View Entity)",
-            "GitLink": "https://github.com/Xexer/abap-feature-matrix/blob/main/wiki/cds-operations.md#distinct-view-entity",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/cds-operations.md#distinct-view-entity",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abencds_select_statement_v2.htm",
             "Release": {
                 "2021": "x"

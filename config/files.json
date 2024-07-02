@@ -1,77 +1,77 @@
 [
     {
         "Title": "ABAP Statements",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-statements.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/abap-statements.json",
         "Order": 4
     },
     {
         "Title": "ABAP SQL",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-sql.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/abap-sql.json",
         "Order": 3
     },
     {
         "Title": "ABAP Unit",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-unit.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/abap-unit.json",
         "Order": 6
     },
     {
         "Title": "ABAP Concepts",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-concepts.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/abap-concepts.json",
         "Order": 1
     },
     {
         "Title": "AMDP",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/amdp.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/amdp.json",
         "Order": 7
     },
     {
         "Title": "Core Data Services",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/core-data-services.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/core-data-services.json",
         "Order": 8
     },
     {
         "Title": "CDS Functions",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/cds-functions.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/cds-functions.json",
         "Order": 9
     },
     {
         "Title": "CDS Operations",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/cds-operations.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/cds-operations.json",
         "Order": 10
     },
     {
         "Title": "Dictionary",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/dictionary.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/dictionary.json",
         "Order": 11
     },
     {
         "Title": "ABAP RESTful Programming Model",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/rap.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/rap.json",
         "Order": 5
     },
     {
         "Title": "Objects - Classes",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/objects-classes.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/objects-classes.json",
         "Order": 12
     },
     {
         "Title": "Objects - Interfaces",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/objects-interfaces.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/objects-interfaces.json",
         "Order": 13
     },
     {
         "Title": "Objects - Programs",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/objects-programs.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/objects-programs.json",
         "Order": 14
     },
     {
         "Title": "ABAP Development Tools (ADT)",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/adt.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/adt.json",
         "Order": 2
     },
     {
         "Title": "ABAP Cloud",
-        "FilePath": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix/main/content/abap-cloud.json",
+        "FilePath": "[[BaseRawFiles]]/main/content/abap-cloud.json",
         "Order": 0
     }
 ]
