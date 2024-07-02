@@ -33,6 +33,16 @@ Contains technical information about the release, as well as the title for the e
 },
 ```
 
+### settings.json
+Contains base settings for the used links in the repository. The placeholders ``[[PLACEHOLDER]]`` will be replaced with the corresponding field in the settings file. This reduces effort, when the repository was cloned or copied.
+
+```JSON
+{
+    "BaseRepository": "https://github.com/Xexer/abap-feature-matrix",
+    "BaseRawFiles": "https://raw.githubusercontent.com/Xexer/abap-feature-matrix"
+}
+```
+
 ### status.json
 Defines the available states of the objects, along with the title and icon for output.
 
