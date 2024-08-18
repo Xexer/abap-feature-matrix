@@ -1,38 +1,38 @@
 {
-    "Name": "ABAP Cloud",
-    "Description" : "",
-    "Content": [
-        {
-            "Text": "Software Components",
-            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#software-components-abap-cloud",
-            "Help": "",
-            "Release": {
-                "2022": "x"
-            }
-        },
-        {
-            "Text": "Business Configuration",
-            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#business-configuration",
-            "Help": "https://help.sap.com/docs/btp/sap-business-technology-platform/fiori-apps-business-configuration?locale=en-US",
-            "Release": {
-                "2022": "x"
-            }
-        },
-        {
-            "Text": "T1 Fiori Deployment",
-            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#t1-fiori-deployment-abap-cloud",
-            "Help": "",
-            "Release": {
-                "2023": "x"
-            }
-        },
-        {
-            "Text": "Software Component Relations",
-            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#software-component-relations",
-            "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-software-component-relations?locale=en-US",
-            "Release": {
-                "2025": "x"
-            }
-        }
-    ]
+  "Name": "ABAP Cloud",
+  "Description": "",
+  "Content": [
+    {
+      "Text": "Software Components",
+      "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#software-components-abap-cloud",
+      "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/software-component",
+      "Release": {
+        "2022": "x"
+      }
+    },
+    {
+      "Text": "Business Configuration",
+      "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#business-configuration",
+      "Help": "https://help.sap.com/docs/btp/sap-business-technology-platform/fiori-apps-business-configuration?locale=en-US",
+      "Release": {
+        "2022": "x"
+      }
+    },
+    {
+      "Text": "T1 Fiori Deployment",
+      "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#t1-fiori-deployment-abap-cloud",
+      "Help": "https://community.sap.com/t5/technology-blogs-by-sap/how-to-create-a-sap-fiori-elements-application-from-within-adt/ba-p/13797232",
+      "Release": {
+        "2023": "x"
+      }
+    },
+    {
+      "Text": "Software Component Relations",
+      "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-cloud.md#software-component-relations",
+      "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-software-component-relations?locale=en-US",
+      "Release": {
+        "2025": "x"
+      }
+    }
+  ]
 }
