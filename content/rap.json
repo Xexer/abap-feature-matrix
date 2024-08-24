@@ -189,7 +189,7 @@
         {
             "Text": "Virtual Elements",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/rap.md#virtual-elements",
-            "Help": "",
+            "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/319380e0cef94051ae9aa292ffadb59a.html?locale=en-US",
             "Release": {
                 "2020": "x"
             }
