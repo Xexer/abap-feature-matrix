@@ -555,6 +555,14 @@
       }
     },
     {
+      "Text": "Migration Tool",
+      "GitLink": "[[BaseRepository]]/blob/main/wiki/adt.md#migration tool",
+      "Help": "",
+      "Release": {
+        "2023": "x"
+      }
+    },
+    {
       "Text": "Tool Bridge (*)",
       "GitLink": "[[BaseRepository]]/blob/main/wiki/adt.md#tool-bridge",
       "Help": "https://help.sap.com/docs/abap-cloud/abap-cds-tools-user-guide/creating-fiori-project?locale=en-US",

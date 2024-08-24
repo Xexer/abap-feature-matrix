@@ -118,7 +118,6 @@ RAP BDL now supports the following new field characteristics: `readonly:update`
 
 With ``virtual elements``, you define additional CDS elements that are not persisted on the database, but calculated during runtime using ABAP classes that implement the virtual element interface.
 
-
 ## Augmentation
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_augment_projection.htm)
 
@@ -343,3 +342,11 @@ A migration tool has been released to migrate CDS-based BOPF business objects to
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaprap_cl_abap_tx.htm)
 
 Used to explicitly set transitions for RAP transactional phases.
+
+## Leading Entity
+
+You can now define a leading entity in the service definition. In the service binding this entity is then marked. Use the following association:
+
+```abap
+@ObjectModel.leadingEntity.name: ''
+```

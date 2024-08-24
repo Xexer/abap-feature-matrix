@@ -553,6 +553,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Leading Entity",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/rap.md#leading-entity",
+            "Help": "",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

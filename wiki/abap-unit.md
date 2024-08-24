@@ -65,3 +65,8 @@ Creates a double for the EML statement to access or modify a RAP object. Use the
 [SAP Blog](https://community.sap.com/t5/technology-blogs-by-sap/introducing-the-background-processing-framework/ba-p/13579056)
 
 Observe a bgPF (background processing framework) process while using the class `CL_BGMC_TEST_ENVIRONMENT` with the method CREATE_FOR_SPYING, so you could validate informations like processes started.
+
+## Event Double
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/d968967b5b9145ad8444fd573f304a90.html?locale=en-US)
+
+You can now verify the payload of RAP Business Events using the Event Test Double Framework. Use the class ``CL_RAP_EVENT_TEST_ENVIRONMENT`` to set up you environment.

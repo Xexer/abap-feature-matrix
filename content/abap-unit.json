@@ -105,6 +105,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Event Double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#event-double",
+            "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/d968967b5b9145ad8444fd573f304a90.html?locale=en-US",
+            "Release": {
+                "2023": "x"
+            }
         }
     ]
 }

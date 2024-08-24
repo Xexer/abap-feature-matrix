@@ -235,6 +235,11 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 ## Object Set Playground
 
 
+## Migration Tool
+(SAP Help)[]
+
+You can now use the Migration Tool in ABAP Development Tools (ADT) to plan, prepare, perform, and validate the migration of CDS-based BOPF business objects to BOPF-based RAP business objects.
+
 ## Tool Bridge
 (SAP Help)[https://help.sap.com/docs/abap-cloud/abap-cds-tools-user-guide/creating-fiori-project?locale=en-US]
 
