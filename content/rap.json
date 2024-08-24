@@ -557,7 +557,7 @@
         {
             "Text": "Leading Entity",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/rap.md#leading-entity",
-            "Help": "",
+            "Help": "https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/b09e4d53bfca4544a9f8910bcc2cd9d6.html?locale=en-US",
             "Release": {
                 "2023": "x"
             }

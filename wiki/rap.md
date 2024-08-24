@@ -344,6 +344,7 @@ A migration tool has been released to migrate CDS-based BOPF business objects to
 Used to explicitly set transitions for RAP transactional phases.
 
 ## Leading Entity
+(SAP Help)[https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/b09e4d53bfca4544a9f8910bcc2cd9d6.html?locale=en-US]
 
 You can now define a leading entity in the service definition. In the service binding this entity is then marked. Use the following association:
 
