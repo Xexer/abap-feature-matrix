@@ -108,11 +108,16 @@ The new RAP BO operation addition `precheck` can be used to prevent illegal chan
 
 RAP BDL now supports the following new field characteristics: `mandatory:create`
 
-
 ## READONLY:UPDATE
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_field_char.htm#!ABAP_VARIANT_6@6@)
 
 RAP BDL now supports the following new field characteristics: `readonly:update`
+
+## Virtual Elements
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/319380e0cef94051ae9aa292ffadb59a.html?locale=en-US)
+
+With ``virtual elements``, you define additional CDS elements that are not persisted on the database, but calculated during runtime using ABAP classes that implement the virtual element interface.
+
 
 ## Augmentation
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_augment_projection.htm)

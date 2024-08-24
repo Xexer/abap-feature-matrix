@@ -187,6 +187,14 @@
             }
         },
         {
+            "Text": "Virtual Elements",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/rap.md#virtual-elements",
+            "Help": "",
+            "Release": {
+                "2020": "x"
+            }
+        },
+        {
             "Text": "Augmentation",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/rap.md#augmentation",
             "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenbdl_augment_projection.htm",
