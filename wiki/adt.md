@@ -126,7 +126,7 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 [SAP Help](https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/c238d694b825421f940829321ffa326a/74c5630e5c014499bc210b07d14b2ff2.html?locale=en-US)
 
 ## Quick fixes in ATC
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/applying-quick-fixes-for-atc-findings)
 
 ## RAP Tooling
 
@@ -138,7 +138,7 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 
 
 ## Transport Request Editor
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/transport-organizer-concepts)
 
 ## Modification Support
 
@@ -150,28 +150,28 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 
 
 ## Relation Explorer
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-relation-explorer)
 
 ## AMDP Debugger
-
+[SAP Help](https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_751_IP/c238d694b825421f940829321ffa326a/79eae83dbf594660bd91cefdd55f7791.html)
 
 ## CDS View Entities
-
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/f2e545608079437ab165c105649b89db/7c078765ec6d4e6b88b71bdaf8a2bd9f.html)
 
 ## BADI Editor (Def.+Impl.)
 
 
 ## Number Ranges
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/creating-number-range-objects)
 
 ## Knowledge Transfer Documents
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/knowledge-transfer-documents?version=s4hana_cloud)
 
 ## Favorite Objects
-
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM/c238d694b825421f940829321ffa326a/4ec55bf96e391014adc9fffe4e204223.html)
 
 ## Text Element Editor
-
+[SAP Help](https://help.sap.com/docs/ABAP_PLATFORM/c238d694b825421f940829321ffa326a/f260666359614774a619d07469a37661.html)
 
 ## Application Log Editor
 
@@ -180,13 +180,13 @@ Edit database tables with a ADT view in text form, without a visual SAP GUI form
 
 
 ## ATC check variant editor
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/editing-atc-check-variants?state=CLOUD)
 
 ## RFC service consumption model Editor
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/creating-service-consumption-model?state=CLOUD)
 
 ## Event Consumption Model Wizard
-
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/creating-event-consumption-model?state=CLOUD)
 
 ## ABAP Daemon Editor
 

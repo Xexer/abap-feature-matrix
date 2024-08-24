@@ -1,6 +1,7 @@
 # ABAP Cloud
 
 ## Software Components (ABAP Cloud)
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/software-component)
 Software components can be created for different language versions in order to define pure TIER-1 packages in which development can be carried out according to the rules of “ABAP for Cloud”.
 
 ## Business Configuration
@@ -9,6 +10,7 @@ Software components can be created for different language versions in order to d
 The Business Configuration is the spiritual successor to the table maintenance generator and provides an easy way to maintain tables via a Fiori application.
 
 ## T1 Fiori Deployment (ABAP Cloud)
+[SAP Help](https://community.sap.com/t5/technology-blogs-by-sap/how-to-create-a-sap-fiori-elements-application-from-within-adt/ba-p/13797232)
 It is currently only possible to deploy a Fiori application in a TIER-1 package from S/4 HANA 2023 FPS1.
 
 ## Software Component Relations
