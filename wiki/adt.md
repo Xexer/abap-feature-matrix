@@ -13,23 +13,43 @@ Run `ABAP Test Cockpit` within Eclipse and show results.
 ## Profiler
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/abap-profiling-in-eclipse/ba-p/13228757)
 
+Now it's possible to easily profile ABAP development objects e.g. Transactions, Programs, Web Dynpro Applications, Function Modules and Unit Tests of Global Classes. Choose "Run -> Profile ABAP Development Object" from the menu or simply press ``Alt+F9``.
+
 ## Webdynpro ABAP Tools
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/developing-web-dynpro-abap-applications-using-abap-development-tools-for/ba-p/13226750)
+
+ABAP development tools (for Eclipse) 2.7 brings to you more convenient and faster environment to develop Web Dynpro ABAP Applications.
 
 ## FPM Integration
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/develop-uis-using-floor-plan-manager-using-abap-development-tools-for/ba-p/13226737)
 
+WithABAP deveopment tools (for Eclipse) 2.7, you can develop Floor Plan Manager application using the new ABAP development tools (based on Eclipse). The new environmen is more intuitive, usabled and enables you to develop faster.
+
 ## ABAP for HANA Tools
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-7-and-find-out-what-s-new/ba-p/13228193)
+
+Therefore, the ABAP Development Tools 2.7 offer new tools to directly consume these SAP HANA artifacts within your ABAP code.
 
 ## Basic Refactorings
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-7-and-find-out-what-s-new/ba-p/13228193)
 
+There are new and useful refactoring and quick fix options you can use in the ABAP source code editor:
+- Extract Constant
+- Promote Local Variable
+- Change Visibility
+
 ## Support for ABAP Doc
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/abap-doc/ba-p/13223459)
 
+ABAP Doc can be used to provide developer documentation for ABAP source code development objects (like classes, interfaces, function modules, programs) within the ABAP source code by using ABAP comments.
+
 ## Connectivity & Integration Tools
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/connectivity-and-integration-with-abap-development-tools-for-sap-netweaver/ba-p/13021172)
+
+ABAP Connectivity & Integration Tools aims at providing the following:
+
+- Enhance your integration experience by bringing together all the essential pieces (ABAP, Proxy, Enterprise Services Repository (ESR), Services Registry, Test & Debug environment) of integration development in one place
+- Build & deploy complex business integration scenarios with ease using a new set of simple yet powerful concepts and toolsets shipped with ABAP in Eclipse (AiE)
 
 ## Core Data Services Tools
 [SAP Blog](https://community.sap.com/t5/application-development-blog-posts/get-abap-development-tools-2-19-and-find-out-what-s-new/ba-p/13048394)
