@@ -113,6 +113,14 @@
             "Release": {
                 "2023": "x"
             }
+        },
+        {
+            "Text": "Event Double",
+            "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-unit.md#amdp-test-double",
+            "Help": "https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/getting-started-with-amdp-test-double-framework?locale=en-US",
+            "Release": {
+                "2025": "x"
+            }
         }
     ]
 }

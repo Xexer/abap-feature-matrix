@@ -70,3 +70,8 @@ Observe a bgPF (background processing framework) process while using the class `
 [SAP Help](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/d968967b5b9145ad8444fd573f304a90.html?locale=en-US)
 
 You can now verify the payload of RAP Business Events using the Event Test Double Framework. Use the class ``CL_RAP_EVENT_TEST_ENVIRONMENT`` to set up you environment.
+
+## AMDP Test Double
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/getting-started-with-amdp-test-double-framework?locale=en-US)
+
+AMDP test double framework is a test utility that helps in testing the logic written with an ABAP Managed Database Procedure (AMDP) in an automated way using the well-known ABAP Unit test. Test ABAP Managed Database Procedures via class ``CL_AMDP_TEST_ENVIRONMENT``.
