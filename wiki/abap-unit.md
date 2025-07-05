@@ -49,6 +49,7 @@ Creates a double of a function module with the class `CL_FUNCTION_TEST_ENVIRONME
 
 ## Authority Check Helper
 [SAP Help](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/managing-dependencies-on-abap-authority-checks-with-abap-unit?locale=en-US)
+
 Use the class `CL_AUNIT_AUTHORITY_CHECK` to change your authorities during Unit Test runtime. You can set specific authorization, that you want to test with your AUTHORITY CHECK.
 
 ## Transactional Buffer Double
