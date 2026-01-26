@@ -7,6 +7,7 @@ In ABAP SQL, all operands in lists can now be separated by commas and this is al
 
 ## Comma-Separated Lists
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect.htm)
+
 In ABAP SQL, all operands in lists can now be separated by commas and this is also the recommended way of separating them from ABAP release 7.40, SP05. Until now, comma-separated lists could only be used when single target fields were specified in parentheses after INTO in SELECT and when data objects were specified in parentheses after WHERE.
 
 ## Host Variables (@)
@@ -31,7 +32,7 @@ SELECT *
 The operator `CASE` can now be used to perform complex case distinctions (searched case) as well as simple case distinctions.
 
 ## Read CDS with parameters
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_data_source.htm#!ABAP_ALTERNATIVE_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSELECT_CDS_PARA_ABEXA.html)
 
 From ABAP release 7.40, SP08, CDS views can be defined with input parameters that are assigned actual parameters when used. To enable this, the option of a parenthesized comma-separated list for parameter passing was added to the data source specified in the statement SELECT:
 
@@ -80,7 +81,7 @@ The new string functions `LOWER` and `UPPER` implement uppercase and lowercase.
 The new string functions `LEFT`, `CONCAT_WITH_SPACE`, `INSTR`, and `RPAD` perform operations on strings.
 
 ## Date functions
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATS_DATE_FUNC.html)
 
 The new date functions `DATS_IS_VALID`, `DATS_DAYS_BETWEEN`, `DATS_ADD_DAYS` and `DATS_ADD_MONTHS` execute operations with date fields.
 
@@ -125,15 +126,14 @@ On an AS ABAP with a SAP HANA database as its standard database, only those seco
 The relational expression `IS [NOT] INITIAL` can now be used in a condition sql_cond to compare operands with their type-dependent initial value. When used, this expression leads to the strict mode from ABAP release 7.53.
 
 ## TIMS_IS_VALID
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#@@ITOC@@ABENSQL_TIME_FUNC_2)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMS_TIME_FUNC.html)
 
 New TIMS functions: `TIMS_IS_VALID`
 
 ## Timestamp functions
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TS_TIMESTAMP_FUNC.html)
 
 New timestamp functions: `TSTMP_IS_VALID`, `TSTMP_CURRENT_UTCTIMESTAMP`, `TSTMP_SECONDS_BETWEEN`, `TSTMP_ADD_SECONDS`
-
 
 ## Date/Time Conversions
 [SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm)
@@ -141,12 +141,12 @@ New timestamp functions: `TSTMP_IS_VALID`, `TSTMP_CURRENT_UTCTIMESTAMP`, `TSTMP_
 New date/time conversions: `TSTMP_TO_DATS`, `TSTMP_TO_TIMS`, `TSTMP_TO_DST`, `DATS_TIMS_TO_TSTMP`
 
 ## ABAP_SYSTEM_TIMEZONE
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_1@1@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMEZONE_FUNC.html)
 
 The function `ABAP_SYSTEM_TIMEZONE` returns the system time zone of the AS ABAP for the client passed to client. The actual parameter for the optional formal parameter client must have the built-in dictionary type CLNT and contain a valid client ID.
 
 ## ABAP_USER_TIMEZONE
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMEZONE_FUNC.html)
 
 The function `ABAP_USER_TIMEZONE` returns the user time zone of AS ABAP for the user name passed to user and the client passed to client.
 
@@ -171,7 +171,7 @@ The new addition `INDICATORS` can be used to specify a null indicator.
 The new aggregate function STRING_AGG can be used to chain character-like results of the rows of the results set of a query or of the current group as a string.
 
 ## PERIOD FROM TO VALID FROM TO
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenselect_hierarchy_generator.htm#!ABAP_ADDITION_3@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSELECT_HIERARCHY_GEN_ASSOC.html)
 
 The hierarchy generator HIERARCHY can now use the new addition `PERIOD FROM TO VALID FROM TO` to create temporal hierarchies in which the hierarchy nodes are limited by time intervals.
 
@@ -181,7 +181,7 @@ The hierarchy generator HIERARCHY can now use the new addition `PERIOD FROM TO V
 The new hierarchy navigator `HIERARCHY_DESCENDANTS_AGGREGATE` can be used to calculate aggregate functions for descendant nodes.
 
 ## LEAD/LAG
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_6@6@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 ABAP SQL now supports the following new window functions in window expressions: `LEAD`, `LAG`
 
@@ -202,127 +202,127 @@ SELECT carrid, carrname, uuid( ) AS uuid
 The `ALLOW_PRECISION_LOSS` statement can improve the performance of an aggregate expression agg_exp at the cost of accuracy of the result. This function should only be used on decimal values and when loss of precision is acceptable.
 
 ## FIRST_VALUE / LAST_VALUE
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_7@7@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Specifies one of the value functions FIRST_VALUE or LAST_VALUE as a window function. The FIRST_VALUE function returns the first value of a sorted set of values, the LAST_VALUE function returns the last value of a sorted set of values.
 
 ## TSTMPL_TO_UTCL
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_5@5@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `TSTMPL_TO_UTCL` converts a time stamp tstmpl from the ABAP Dictionary type TIMESTAMPL to the built-in dictionary type UTCLONG.
 
 ## TSTMPL_FROM_UTCL
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_6@6@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `TSTMPL_FROM_UTCL` converts a time stamp utcl from the built-in dictionary type UTCLONG to the ABAP Dictionary type TIMESTAMPL.
 
 ## DATS_TO_DATN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_7@7@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `DATS_TO_DATN` converts a date dats from the built-in ABAP Dictionary data type DATS to the built-in ABAP Dictionary type DATN.
 
 ## DATS_FROM_DATN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_8@8@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `DATS_FROM_DATN` converts a date date from the built-in ABAP Dictionary data type DATN to the built-in ABAP Dictionary type DATS.
 
 ## TIMS_TO_TIMN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_9@9@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `TIMS_TO_TIMN` converts a time tims from the ABAP Dictionary type TIMS to the ABAP Dictionary type TIMN.
 
 ## TIMS_FROM_TIMN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_10@10@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 The function `TIMS_FROM_TIMN` converts a time time from the ABAP Dictionary type TIMN to the ABAP Dictionary type TIMS.
 
 ## UTCL_CURRENT
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_1@1@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html)
 
 This function generates a UTC time stamp from the system time and the system date of AS ABAP in accordance with POSIX. The return value has the built-in dictionary type UTCLONG.
 
 ## UTCL_ADD_SECONDS
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html)
 
 The function `UTCL_ADD_SECONDS` adds seconds seconds to a time stamp utclong. It has two positional parameters. The actual parameter for the formal parameter utclong must have the built-in dictionary type UTCLONG and contain a valid time stamp in the format YYYYMMDDHHMMSSMMMUUUN.
 
 ## UTCL_SECONDS_BETWEEN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_3@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html)
 
 The function `UTCL_SECONDS_BETWEEN` calculates the difference between two specified time stamps utcl1 and utcl2 in seconds. It has two positional parameters. The actual parameters for the formal parameters utcl1 and utcl2 must have the built-in dictionary type UTCLONG and contain a valid time stamp in the format YYYYMMDDHHMMSSMMMUUUN.
 
 ## DATN_DAYS_BETWEEN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@11@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html)
 
 The function `DATN_DAYS_BETWEEN` calculates the difference between two specified dates date1 and date2 in days. The actual parameters must have the built-in data type DATN and must contain a valid date in the format YYYYMMDD. The result has the data type INT4.
 
 ## DATN_ADD_DAYS
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@12@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html)
 
 The function `DATN_ADD_DAYS` adds days days to a specified date date.
 
 ## DATN_ADD_MONTHS
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@13@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html)
 
 The function `DATN_ADD_MONTHS` adds months months to a specified date date.
 
 ## NULLS FIRST/LAST
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPORDERBY_CLAUSE_ADDITIONS.html)
 
 The additions `NULLS FIRST` and `NULLS LAST` determine whether null values are placed in front of or after non-null values. If neither addition is specified, potential null values are placed at the beginning of the result set. If only DESCENDING is specified and no nulls occur, null values are placed at the end of the result set.
 
 ## MEDIAN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Determines the statistical median of an input expression. Null values are ignored. If the number of non-null values is even, then the return value is the average of the two middle elements. Otherwise, the middle element is returned.
 
 ## STDDEV
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_7@7@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Determines the standard deviation of a given expression as the square root of the VAR function. The result of the SQL expression sql_exp can have either the data type FLTP or DECFLOAT34.
 
 ## VAR
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_8@8@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Determines the variance of a given expression as the square of the standard deviation. The SQL expression sql_exp can only be FLTP or DECFLOAT34.
 
 ## CORR
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_9@9@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Determines the Pearson product-moment correlation coefficient between two columns. In other words, it measures the linear correlation of two value sets.
 
 ## CORR_SPEARMAN
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_10@10@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Determines the Spearman's rank correlation coefficient of the values found in the corresponding rows of two columns. In other words, it measures the monotonous correlation of two value sets.
 
 ## AS_GEO_JSON
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_geo_conv_func.htm)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/abensql_geo_conv_func.html)
 
 The function AS_GEO_JSON reads geometry input in the Extended Well-Known Binary (EWKB) representation and returns a geometry object in JSON format.
 
 ## NTILE
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_5@5@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html)
 
 Specifies the ranking function NTILE as a window function. This window function divides the rows of a window into n buckets. The goal is to fill all buckets with the same number of rows by following the rule specified after ORDER BY.
 
 ## TO_BLOB
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2B@4@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TYPE_CONV_FUNC.html)
 
 The TO_BLOB function converts the value of the operand sql_exp from a byte field of type RAW to a byte string (BLOB) of type RAWSTRING.
 
 ## TO_CLOB
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2A@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TYPE_CONV_FUNC.html)
 
 The `TO_CLOB` function converts the value of the operand sql_exp from a character string of fixed length of type CHAR or SSTRING to a CLOB of type STRING.
 
 ## CURRENCY_CONVERSION
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_CURR_UNIT_CONV_FUNC.html)
 
 The function `CURRENCY_CONVERSION` performs a currency conversion for the value passed to the formal parameter amount. The result has the same data type as the formal parameter passed to amount. The currency conversion is performed on the basis of the client-dependent rules saved in the DDIC database tables TCUR... of package SFIB.
 
 ## Typed Literals
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_typed_literals.htm)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/abenabap_sql_typed_literals.html)
 
 Typed literals can be created for all built-in ABAP Dictionary types with the exception of LCHR, LRAW, GEOM_EWKB, PREC, ACCP, DF16_SCL, and DF34_SCL.
 
@@ -347,52 +347,52 @@ Counts all occurrences of a Perl Compatible Regular Expression (PCRE) pcre in sq
 String with a length of sql_exp, in which the first letter of a word is transformed to uppercase, and all other letters are transformed to lowercase. A word is delimited by the following: beginning of a string, blank space, new line, form feed, carriage return, line feed, and anything after ! " # $ % & ' ( ) * + , - . / : ; < = > ? @ [ \ ] ^ _ ` { | } ~.
 
 ## IS_VALID
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@1@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html)
 
 The generic function `IS_VALID` determines whether the specification date, time, or utclong has a valid format.
 
 ## EXTRACT_YEAR
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `EXTRACT_YEAR` extracts the year of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
 ## EXTRACT_MONTH
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `EXTRACT_MONTH` extracts the month of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
 ## EXTRACT_DAY
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_4@4@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `EXTRACT_DAY` extracts the day of a date or a time stamp. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
 ## EXTRACT_HOUR
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html)
 
 The generic function `EXTRACT_HOUR` extracts the hour of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
 
 ## EXTRACT_MINUTE
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_3@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html)
 
 The generic function `EXTRACT_MINUTE` extracts the minute of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
 
 ## EXTRACT_SECOND
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_4@4@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html)
 
 The generic function EXTRACT_SECOND extracts the second of a time or a time stamp. The actual parameter must have the built-in data type TIMN, TIMS, or UTCLONG.
 
 ## DAYNAME
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_5@5@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `DAYNAME` returns the name of a day of a date or a time stamp in uppercase letters in English. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
 ## MONTHNAME
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_6@6@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `MONTHNAME` returns the name of a month of a date or a time stamp in uppercase letters in English. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
 ## WEEKDAY
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_7@7@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The generic function `WEEKDAY` returns the number of a weekday of a date or a time stamp from 0 to 6. The actual parameter must have the built-in data type DATN, DATS, or UTCLONG.
 
@@ -402,12 +402,12 @@ The generic function `WEEKDAY` returns the number of a weekday of a date or a ti
 The function `DAYS_BETWEEN` calculates the difference between two dates date1 or utclong1 and date2 or utclong2 in days. The actual parameters must have the built-in data type DATN, DATS, or UTCLONG and must contain a valid date in the format YYYYMMDD or a valid time stamp in a format like 0001-01-01T00:00:00.0000000.
 
 ## ADD_DAYS
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_9@9@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The function `ADD_DAYS` adds days days to a specified date date or time stamp utclong.
 
 ## ADD_MONTHS
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_10@10@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html)
 
 The function `ADD_MONTHS` adds months months to a specified date date or time stamp utclong.
 
@@ -417,17 +417,17 @@ The function `ADD_MONTHS` adds months months to a specified date date or time st
 The following new casts are available for source types: CHAR, SSTRING, DATS, TIMS, FLTP,DF16_DEC, DF34_DEC, DATN, TIMN.
 
 ## INTERSECT
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPUNION.html)
 
 The ABAP SQL set operator INTERSECT returns all distinct rows of the result set of the query in front of INTERSECT that are also present in the result set of the query after INTERSECT.
 
 ## EXCEPT
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_3@3@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPUNION.html)
 
 The ABAP SQL set operator EXCEPT returns all distinct rows of the result set of the query in front of EXCEPT that are not present in the result set of the query after EXCEPT.
 
 ## UNIT_CONVERSION
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_1@1@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_CURR_UNIT_CONV_FUNC.html)
 
 The function `UNIT_CONVERSION` performs a unit conversion for the value passed to the formal parameter quantity. The result has the same data type as the formal parameter passed to quantity. The unit conversion is performed on the basis of the client-dependent rules saved in the DDIC database tables T006... of package SZME. These rules can be edited using transaction CUNI.
 
@@ -442,11 +442,13 @@ Special null expression in ABAP SQL. The operand `NULL` represents the null valu
 Searches sql_exp for a Perl Compatible Regular Expression (PCRE) pattern pcre and returns the matched substring.
 
 ## INDICATORS ... NULL BITFIELD
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_indicators.htm#!ABAP_ALTERNATIVE_2@2@)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPSELECT_INDICATORS.html)
 
 The new addition `INDICATORS ... NULL BITFIELD` of the INTO clause of a SELECT statement allows a byte field type component to be specified as a null indicator. The single bits of the byte field serve for indicating null values in the result set of the query. For this purpose, condensed indicator structures can be declared with the addition AS BITFIELD of the TYPES statement.
 
 ## New Cardinality
+[SAP Help](https://help.sap.com/docs/abap-cloud/abap-data-models/cardinality?locale=en-US)
+
 A new syntax for specifying the cardinality of joins is available:
 
 ```ABAP

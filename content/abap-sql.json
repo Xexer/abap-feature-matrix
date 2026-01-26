@@ -46,7 +46,7 @@
         {
             "Text": "Read CDS with parameters",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#read-cds-with-parameters",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_data_source.htm#!ABAP_ALTERNATIVE_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSELECT_CDS_PARA_ABEXA.html",
             "Release": {
                 "7408": "x"
             }
@@ -150,7 +150,7 @@
         {
             "Text": "DATS_IS_VALID",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATS_DATE_FUNC.html",
             "Release": {
                 "1610": "x"
             }
@@ -158,7 +158,7 @@
         {
             "Text": "DATS_DAYS_BETWEEN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATS_DATE_FUNC.html",
             "Release": {
                 "1610": "x"
             }
@@ -166,7 +166,7 @@
         {
             "Text": "DATS_ADD_DAYS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATS_DATE_FUNC.html",
             "Release": {
                 "1610": "x"
             }
@@ -174,7 +174,7 @@
         {
             "Text": "DATS_ADD_MONTHS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#date-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#@@ITOC@@ABENSQL_DATE_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATS_DATE_FUNC.html",
             "Release": {
                 "1610": "x"
             }
@@ -262,7 +262,7 @@
         {
             "Text": "TIMS_IS_VALID",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_is_valid",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#@@ITOC@@ABENSQL_TIME_FUNC_2",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMS_TIME_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -270,7 +270,7 @@
         {
             "Text": "TSTMP_IS_VALID",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TS_TIMESTAMP_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -278,7 +278,7 @@
         {
             "Text": "TSTMP_CURRENT_UTCTIMESTAMP",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TS_TIMESTAMP_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -286,7 +286,7 @@
         {
             "Text": "TSTMP_SECONDS_BETWEEN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TS_TIMESTAMP_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -294,7 +294,7 @@
         {
             "Text": "TSTMP_ADD_SECONDS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#timestamp-functions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#@@ITOC@@ABENSQL_TIMESTAMP_FUNC_3",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TS_TIMESTAMP_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -326,7 +326,7 @@
         {
             "Text": "DATS_TIMS_TO_TSTMP",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_4@4@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "1809": "x"
             }
@@ -334,7 +334,7 @@
         {
             "Text": "ABAP_SYSTEM_TIMEZONE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#abap_system_timezone",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_1@1@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMEZONE_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -342,7 +342,7 @@
         {
             "Text": "ABAP_USER_TIMEZONE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#abap_user_timezone",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timezone_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TIMEZONE_FUNC.html",
             "Release": {
                 "1809": "x"
             }
@@ -382,7 +382,7 @@
         {
             "Text": "PERIOD FROM TO VALID FROM TO",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#period-from-to-valid-from-to",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenselect_hierarchy_generator.htm#!ABAP_ADDITION_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSELECT_HIERARCHY_GEN_ASSOC.html",
             "Release": {
                 "1909": "x"
             }
@@ -398,7 +398,7 @@
         {
             "Text": "LEAD",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#leadlag",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_6@6@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "1909": "x"
             }
@@ -406,7 +406,7 @@
         {
             "Text": "LAG",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#leadlag",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_6@6@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "1909": "x"
             }
@@ -430,7 +430,7 @@
         {
             "Text": "FIRST_VALUE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#first_value",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -438,7 +438,7 @@
         {
             "Text": "LAST_VALUE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#last_value",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -446,7 +446,7 @@
         {
             "Text": "TSTMPL_TO_UTCL",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tstmpl_to_utcl",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_5@5@",
+            "Help": "hhttps://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -454,7 +454,7 @@
         {
             "Text": "TSTMPL_FROM_UTCL",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tstmpl_from_utcl",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_6@6@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -462,7 +462,7 @@
         {
             "Text": "DATS_TO_DATN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dats_to_datn",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -470,7 +470,7 @@
         {
             "Text": "DATS_FROM_DATN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dats_from_datn",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_8@8@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -478,7 +478,7 @@
         {
             "Text": "TIMS_TO_TIMN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_to_timn",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_9@9@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -486,7 +486,7 @@
         {
             "Text": "TIMS_FROM_TIMN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tims_from_timn",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_10@10@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -494,7 +494,7 @@
         {
             "Text": "UTCL_CURRENT",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_current",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_1@1@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -502,7 +502,7 @@
         {
             "Text": "UTCL_ADD_SECONDS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_add_seconds",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -510,7 +510,7 @@
         {
             "Text": "UTCL_SECONDS_BETWEEN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#utcl_seconds_between",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_timestamp_func.htm#!ABAP_VARIANT_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_UTC_TIMESTAMP_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -518,7 +518,7 @@
         {
             "Text": "DATN_DAYS_BETWEEN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_days_between",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@11@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -526,7 +526,7 @@
         {
             "Text": "DATN_ADD_DAYS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_add_days",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@12@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -534,7 +534,7 @@
         {
             "Text": "DATN_ADD_MONTHS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datn_add_months",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@13@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATN_DATE_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -542,7 +542,7 @@
         {
             "Text": "NULLS FIRST",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#nulls-firstlast",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPORDERBY_CLAUSE_ADDITIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -550,7 +550,7 @@
         {
             "Text": "NULLS LAST",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#nulls-firstlast",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abaporderby_clause.htm#!ABAP_ADDITION_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPORDERBY_CLAUSE_ADDITIONS.html",
             "Release": {
                 "2020": "x"
             }
@@ -558,7 +558,7 @@
         {
             "Text": "MEDIAN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#median",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -566,7 +566,7 @@
         {
             "Text": "STDDEV",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#stddev",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -574,7 +574,7 @@
         {
             "Text": "VAR",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#var",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_8@8@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -582,7 +582,7 @@
         {
             "Text": "CORR",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#corr",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_9@9@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -590,7 +590,7 @@
         {
             "Text": "CORR_SPEARMAN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#corr_spearman",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_agg_func.htm#!ABAP_VARIANT_10@10@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -598,7 +598,7 @@
         {
             "Text": "AS_GEO_JSON",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#as_geo_json",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_geo_conv_func.htm",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/abensql_geo_conv_func.html",
             "Release": {
                 "2020": "x"
             }
@@ -606,7 +606,7 @@
         {
             "Text": "NTILE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#ntile",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_win_func.htm#!ABAP_VARIANT_5@5@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_WIN_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -614,7 +614,7 @@
         {
             "Text": "TO_BLOB",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#to_blob",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2B@4@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TYPE_CONV_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -622,7 +622,7 @@
         {
             "Text": "TO_CLOB",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#to_clob",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_type_conv_func.htm#!ABAP_VARIANT_2A@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_TYPE_CONV_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -630,7 +630,7 @@
         {
             "Text": "CURRENCY_CONVERSION",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#currency_conversion",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_CURR_UNIT_CONV_FUNC.html",
             "Release": {
                 "2020": "x"
             }
@@ -638,7 +638,7 @@
         {
             "Text": "Typed Literals",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#typed-literals",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abenabap_sql_typed_literals.htm",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/abenabap_sql_typed_literals.html",
             "Release": {
                 "2020": "x"
             }
@@ -678,7 +678,7 @@
         {
             "Text": "IS_VALID",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#is_valid",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_1@1@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -686,7 +686,7 @@
         {
             "Text": "EXTRACT_YEAR",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_year",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -694,7 +694,7 @@
         {
             "Text": "EXTRACT_MONTH",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_month",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -702,7 +702,7 @@
         {
             "Text": "EXTRACT_DAY",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_day",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_4@4@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -710,7 +710,7 @@
         {
             "Text": "EXTRACT_HOUR",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_hour",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -718,7 +718,7 @@
         {
             "Text": "EXTRACT_MINUTE",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_minute",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -726,7 +726,7 @@
         {
             "Text": "EXTRACT_SECOND",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#extract_second",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_time_func.htm#!ABAP_VARIANT_4@4@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_TIME_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -734,7 +734,7 @@
         {
             "Text": "DAYNAME",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#dayname",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_5@5@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -742,7 +742,7 @@
         {
             "Text": "MONTHNAME",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#monthname",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_6@6@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -750,7 +750,7 @@
         {
             "Text": "WEEKDAY",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#weekday",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_7@7@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -758,7 +758,7 @@
         {
             "Text": "DAYS_BETWEEN",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#days_between",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_8@8@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -766,7 +766,7 @@
         {
             "Text": "ADD_DAYS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#add_days",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_9@9@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -774,7 +774,7 @@
         {
             "Text": "ADD_MONTHS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#add_months",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_func.htm#!ABAP_VARIANT_10@10@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_GEN_DATE_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -790,7 +790,7 @@
         {
             "Text": "INTERSECT",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#intersect",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPUNION.html",
             "Release": {
                 "2021": "x"
             }
@@ -798,7 +798,7 @@
         {
             "Text": "EXCEPT",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#except",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapunion.htm#!ABAP_VARIANT_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPUNION.html",
             "Release": {
                 "2021": "x"
             }
@@ -806,7 +806,7 @@
         {
             "Text": " UNIT_CONVERSION",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#unit_conversion",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_curr_unit_conv_func.htm#!ABAP_VARIANT_1@1@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_CURR_UNIT_CONV_FUNC.html",
             "Release": {
                 "2021": "x"
             }
@@ -830,7 +830,7 @@
         {
             "Text": "INDICATORS ... NULL BITFIELD",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#indicators--null-bitfield",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abapselect_indicators.htm#!ABAP_ALTERNATIVE_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABAPSELECT_INDICATORS.html",
             "Release": {
                 "2021": "x"
             }
@@ -838,7 +838,7 @@
         {
             "Text": "New Cardinality",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#new-cardinality",
-            "Help": "",
+            "Help": "https://help.sap.com/docs/abap-cloud/abap-data-models/cardinality?locale=en-US",
             "Release": {
                 "2023": "x"
             }
