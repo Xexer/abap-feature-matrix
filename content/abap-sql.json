@@ -302,7 +302,7 @@
         {
             "Text": "TSTMP_TO_DATS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_1@1@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "1809": "x"
             }
@@ -310,7 +310,7 @@
         {
             "Text": "TSTMP_TO_TIMS",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_2@2@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "1809": "x"
             }
@@ -318,7 +318,7 @@
         {
             "Text": "TSTMP_TO_DST",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#datetime-conversions",
-            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm#!ABAP_VARIANT_3@3@",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "1809": "x"
             }
@@ -446,7 +446,7 @@
         {
             "Text": "TSTMPL_TO_UTCL",
             "GitLink": "[[BaseRepository]]/blob/main/wiki/abap-sql.md#tstmpl_to_utcl",
-            "Help": "hhttps://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
+            "Help": "https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html",
             "Release": {
                 "2020": "x"
             }

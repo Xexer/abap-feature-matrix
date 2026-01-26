@@ -136,7 +136,7 @@ New TIMS functions: `TIMS_IS_VALID`
 New timestamp functions: `TSTMP_IS_VALID`, `TSTMP_CURRENT_UTCTIMESTAMP`, `TSTMP_SECONDS_BETWEEN`, `TSTMP_ADD_SECONDS`
 
 ## Date/Time Conversions
-[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abensql_date_time_conversions.htm)
+[SAP Help](https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/ABENSQL_DATE_TIME_CONVERSIONS.html)
 
 New date/time conversions: `TSTMP_TO_DATS`, `TSTMP_TO_TIMS`, `TSTMP_TO_DST`, `DATS_TIMS_TO_TSTMP`
 
